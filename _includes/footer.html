@@ -1,0 +1,62 @@
+<footer class="footer">
+
+  <div class="container footer-content">
+    <div class="row">
+      <div class="col-xs-12">
+        <p class="navbar-brand">{{ site.footer }}</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <p class="copyright">{{ site.copyright }}</p>
+      </div>
+    </div>
+  </div>
+
+</footer>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<!-- <script src="{{ "/js/search.min.js" | prepend: site.baseurl }}"></script> -->
+<script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
+
+<!-- <script>
+  $('#search-form').submit(function( event ) {
+    $('#search-modal').modal('show');
+    event.preventDefault();
+  });
+</script> -->
+
+<!-- {% raw %}
+<script id="search-results-template" type="text/mustache">
+  {{#entries}}
+    <article>
+      <h3 class="search-title">
+        <a href="{{url}}">{{title}}</a>
+      </h3>
+      {{#is_post}}
+      <p>
+        <small>https://docs.voltcloud.io{{url}}</small>
+        <br>
+        <small class="text-muted">
+          Published on {{#date}}<time datetime="{{pubdate}}" pubdate>{{displaydate}}</time>{{/date}} in {{#categories}}{{.}}.{{/categories}}
+        </small>
+      </p>
+      {{/is_post}}
+    </article>
+  {{/entries}}
+</script>
+{% endraw %} -->
+
+<!-- <script type="text/javascript">
+  $(function() {
+    $('#search-query').lunrSearch({
+      indexUrl  : '/js/index.json',
+      results   : '#search-results',
+      template  : '#search-results-template',
+      titleMsg  : '',
+      emptyMsg  : '<p>Nothing found.</p>'
+    });
+  });
+</script> -->

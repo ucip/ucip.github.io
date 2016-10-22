@@ -1,0 +1,56 @@
+<header>
+  <!-- Modal -->
+  <div class="modal fade" id="search-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <h4 class="modal-title">Search Results</h4>
+        </div>
+        <div class="modal-body">
+          <section id="search-results">
+            <div class="col-lg-12 entries">
+            </div>
+          </section>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <p class="visible-print-block print-title">Volt Docs</p>
+  <nav class="navbar navbar-default">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-volt-navbar-collapse-1" aria-expanded="false">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand hidden-print" href="{{ site.baseurl }}/">
+          <img alt="{{ site.title }}" class="logo-img" src="{{ "/img/logo.jpg" | prepend: site.baseurl }}">
+        </a>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-volt-navbar-collapse-1">
+        <ul class="nav navbar-nav navbar-left">
+          <li><a href="{{ site.baseurl }}/article-index/">Article Index</a></li>
+          <li><a href="{{ site.baseurl }}/api/" target="_blank">API Docs</a></li>
+          <li><a href="{{ site.baseurl }}/client/" target="_blank">JS Docs</a></li>
+        </ul>
+        <form class="navbar-form navbar-right" role="search" id="search-form">
+          <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search" id="search-query" autocomplete="off">
+            <span class="input-group-btn">
+              <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#search-modal"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+            </span>
+          </div>
+        </form>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container -->
+  </nav>
+</header>

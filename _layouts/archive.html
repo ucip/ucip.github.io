@@ -1,0 +1,10 @@
+---
+layout: default
+---
+<h1>Articles in {{ page.title | capitalize }}</h1>
+<ul class="posts">
+  {% assign sortedposts = page.posts | sort: 'title' %}
+  {% for post in sortedposts %}
+      <li class="post-list"><p><a class="post-link" href="{{ post.url }}">{{ post.title }}</a></p></li>
+  {% endfor %}
+</ul>
