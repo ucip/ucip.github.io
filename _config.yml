@@ -1,6 +1,6 @@
 # Site settings
 title: EMU UCiP
-email: your-email@domain.com
+email: emuucip@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Learn about the annual Eastern Michigan University Undergraduate Conference in Philosophy. Find advice for speakers and commentators, maps of campus, local hotels and restaurants, and more!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,8 +11,12 @@ twitter_username:
 # Build settings
 kramdown:
   input: GFM
+
 gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-feed
+
 exclude:
   - Gemfile
   - Gemfile.lock
