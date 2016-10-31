@@ -1,12 +1,40 @@
 ---
 layout: home
+title: "Welcome"
+subtitle: "EMU's 7th Undergraduate Conference in Philosophy<br>March 4th and 5th, 2017"
+header-img: "img/header.jpg"
 ---
 
-<div class="jumbotron">
-  <div class="container">
-
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <div class="post-list-box announcement">
+        <h2 class="text-center post-list-header">Now Accepting Papers!</h2>
+        <p class="text-center announcement-text">We are currently accepting papers for the 2017 Undergraduate Conference in Philosophy. Review the submission guidelines in our Call for Papers (CFP) &ndash; then submit your paper!</p>
+        <div class="text-center">
+          <a class="btn btn-primary cfp" href="{{ site.baseurl }}/cfp/" role="button">View our 2017 CFP</a>
+          <a class="btn btn-primary cfp" href="https://goo.gl/forms/xQAMbifOKAlYHveA3" role="button">Submit a Paper</a>
+        </div>
+      </div>
+    </div>
   </div>
+
+  <div class="row">
+    <div class="col-sm-9 col-xs-12">
+      <h1>Now Accepting Papers</h1>
+      <p>Welcome to the conference main page!</p>
+    </div>
+    <div class="col-sm-3 col-xs-12">
+      <form class="search" role="search" id="search-form">
+        <div class="input-group">
+          <input type="text" class="form-control" placeholder="Search" id="search-query" autocomplete="off">
+          <span class="input-group-btn">
+            <button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#search-modal"><span class="glyphicon glyphicon-search" aria-hidden="true"></span></button>
+          </span>
+        </div>
+      </form>
+    </div>
+  </div>
+
 </div>
+
