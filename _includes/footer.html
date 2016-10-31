@@ -2,13 +2,8 @@
 
   <div class="container footer-content">
     <div class="row">
-      <div class="col-xs-12">
-        <p class="navbar-brand">{{ site.footer }}</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12">
-        <p class="copyright">{{ site.copyright }}</p>
+      <div class="col-sm-6 col-xs-12">
+        <p class="navbar-brand"><a href="mailto:emuucip@gmail.com">Contact Us</a></p>
       </div>
     </div>
   </div>
@@ -20,7 +15,14 @@
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <!-- <script src="{{ "/js/search.min.js" | prepend: site.baseurl }}"></script> -->
 <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
-
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script src="{{ "/js/jquery.fittext.js" | prepend: site.baseurl }}"></script>
+<script>
+  jQuery("#responsive_headline_home1").fitText(1.8, { minFontSize: '80px', maxFontSize: '90px' });
+  jQuery("#responsive_headline_home2").fitText(1.8, { minFontSize: '24px', maxFontSize: '40px' });
+  jQuery("#responsive_headline_1").fitText(1.8, { minFontSize: '40px', maxFontSize: '48px' });
+  jQuery("#responsive_headline_2").fitText(1.8, { minFontSize: '20px', maxFontSize: '36px' });
+</script>
 <!-- <script>
   $('#search-form').submit(function( event ) {
     $('#search-modal').modal('show');
