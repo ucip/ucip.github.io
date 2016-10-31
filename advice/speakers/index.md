@@ -6,6 +6,18 @@ header-img: "img/header.jpg"
 ---
 
 <div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <div class="post-list-box announcement">
+        <h2 class="text-center post-list-header">Now Accepting Papers!</h2>
+        <p class="text-center announcement-text">We are currently accepting papers for the 2017 UCiP</p>
+        <div class="text-center">
+          <a class="btn btn-primary cfp" href="{{ site.baseurl }}/cfp/" role="button">View our 2017 CFP</a>
+          <a class="btn btn-primary cfp" href="https://goo.gl/forms/xQAMbifOKAlYHveA3" role="button">Submit a Paper</a>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="col-md-8 col-md-offset-2 cfp-page">
     <p class="text-justify">By: Professor W. John Koolage</p>
     <p class="text-justify"><a href="{{ site.baseurl }}/docs/adviceforspeakers.pdf" target="_blank">Click here to download a .pdf of this advice.</a></p>

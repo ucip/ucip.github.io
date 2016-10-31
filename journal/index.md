@@ -6,6 +6,18 @@ header-img: "img/header.jpg"
 ---
 
 <div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+      <div class="post-list-box announcement">
+        <h2 class="text-center post-list-header">Now Accepting Papers!</h2>
+        <p class="text-center announcement-text">We are currently accepting papers for the 2017 UCiP</p>
+        <div class="text-center">
+          <a class="btn btn-primary cfp" href="{{ site.baseurl }}/cfp/" role="button">View our 2017 CFP</a>
+          <a class="btn btn-primary cfp" href="https://goo.gl/forms/xQAMbifOKAlYHveA3" role="button">Submit a Paper</a>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="col-md-8 col-md-offset-2 cfp-page">
     <p class="text-justify">Acta Cogitata is Eastern Michigan University's undergraduate journal of philosophy. The journal is dedicated to disseminating ideas and serious work in the discipline, and celebrating the work and contribution to the field of students without advanced training in philosophy. Several papers from the conference are published in this journal each year. The journal also accepts regular submissions.</p>
     <div class="text-center">
