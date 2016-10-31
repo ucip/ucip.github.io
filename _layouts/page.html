@@ -1,7 +1,24 @@
----
-layout: default
----
-<article>
-  <h1 class="pagetitle">{{ page.title }}</h1>
-  {{ content }}
-</article>
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+    <body>
+
+    {% include header.html %}
+
+    <div class="jumbotron page-jumbotron" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+      <div class="container">
+
+        <h1 class="text-center home-h1" id="responsive_headline_1">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+        <h2 class="text-center home-h2" id="responsive_headline_2">{% if page.subtitle %}{{ page.subtitle }}{% else %}{{ site.subtitle }}{% endif %}</h2>
+
+      </div>
+    </div>
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    </body>
+</html>
