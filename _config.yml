@@ -17,6 +17,5 @@ gems:
   - jekyll-seo-tag
   - jekyll-feed
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
+# Exclude files
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
