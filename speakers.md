@@ -6,7 +6,7 @@ permalink: /advice/speakers/
 ---
 
 <div class="container">
-  <div class="col-sm-9 col-xs-12">
+  <div class="col-sm-9 col-xs-12 cfp-page">
     <h2 class="home-h2">How to give a talk (at the UCiP)</h2>
     <p class="text-justify">By: Professor W. John Koolage</p>
     <p class="text-justify"><a href="{{ site.baseurl }}/docs/adviceforspeakers.pdf" target="_blank">Click here to download a .pdf of this advice.</a></p>

@@ -6,7 +6,7 @@ permalink: /arrival/hotels/
 ---
 
 <div class="container">
-  <div class="col-sm-9 col-xs-12">
+  <div class="col-sm-9 col-xs-12 cfp-page">
     <h2 class="home-h2">Accomodations near EMU Campus</h2>
     <p class="text-justify">Ypsilanti is an interesting city with plenty of places worth exploring! The maps on this page can help you find hotels and restaurants near campus.</p>
     <h3>A Note about Public Transportation</h3>
