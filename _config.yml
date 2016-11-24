@@ -11,6 +11,7 @@ twitter_username:
 # Build settings
 kramdown:
   input: GFM
+permalink: pretty
 
 gems:
   - jekyll-sitemap
