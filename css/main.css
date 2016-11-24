@@ -80,6 +80,35 @@ body {
   font-variant: small-caps;
 }
 
+.home-h2 {
+  margin-top: -.15em;
+}
+
+img {
+  margin-top: .5em;
+  margin-bottom: .5em;
+}
+
+.img-div-left {
+  padding-left: 0;
+  padding-right: 1.5em;
+}
+
+.img-div-right {
+  padding-left: 1.5em;
+  padding-right: 0;
+  float: right;
+}
+
+hr {
+  width: 50%;
+  border: .05em solid #006633;
+}
+
+.journal-btns {
+  margin-top: 1em;
+}
+
 .header-link {
   color: rgba(255,255,255,1);
   text-decoration: underline;
