@@ -32,7 +32,7 @@ body {
   font-size: 1.75em;
 }
 
-.site-title {
+h1.site-title {
   margin: -.15em 0 0 0;
   font-size: 1em;
 }
