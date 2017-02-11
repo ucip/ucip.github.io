@@ -7,7 +7,7 @@ permalink: /advice/commentators/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12 cfp-page">
-    <h2 class="home-h2">How to comment on a paper</h2>
+    <h3 class="home-h3">How to comment on a paper</h3>
     <p class="text-justify">By: Professor W. John Koolage</p>
     <p class="text-justify"><a href="{{ site.baseurl }}/docs/commentinstructions.pdf" target="_blank">Click here to download a .pdf of this advice.</a></p>
     <p class="text-justify">So, you have been asked to comment on a paper at a conference. In all likelihood you have not done

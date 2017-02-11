@@ -7,7 +7,7 @@ permalink: /cfp/
 
 <div class="container">
   <div class="col-md-8 col-md-offset-2 cfp-page">
-    <h2 class="home-h2">Submission Deadline: January 10th, 2017</h2>
+    <h3 class="home-h3">Submission Deadline: January 10th, 2017</h3>
     <p class="text-justify">The Eastern Michigan University Undergraduate Conference in Philosophy is now accepting papers
 for its conference to be held at EMU on Saturday and Sunday, March 4th and 5th, 2017.  Papers selected for presentation will be allotted 20 minute presentation times, followed by formal comments and Q & A.  All papers in philosophy, broadly construed, will be considered for the conference; since this is an undergraduate conference, no papers by professionals, graduate students, or others holding an advanced degree (in philosophy) will be considered.</p>
     <h3>Submission Guidelines</h3>

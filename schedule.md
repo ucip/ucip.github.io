@@ -7,7 +7,7 @@ permalink: /schedule/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12">
-    <h3 class="home-h2">2016 EMU Undergraduate Conference in Philosophy</h3>
+    <h3 class="home-h3">2016 EMU Undergraduate Conference in Philosophy</h3>
     <div>
       <h4 class="schedule-header">Saturday, March 5th, 2016</h4>
       <ul class="schedule-list">

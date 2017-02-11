@@ -7,7 +7,7 @@ permalink: /journal/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12 cfp-page">
-    <h2 class="home-h2">EMU's Undergraduate Journal of Philosophy</h2>
+    <h3 class="home-h3">EMU's Undergraduate Journal of Philosophy</h3>
     <p class="text-justify">Acta Cogitata is Eastern Michigan University's undergraduate journal of philosophy. The journal is dedicated to disseminating ideas and serious work in the discipline, and celebrating the work and contribution to the field of students without advanced training in philosophy. Several papers from the conference are published in this journal each year. The journal also accepts regular submissions.</p>
     <div class="text-center">
       <a class="btn btn-primary journal-btns" href="https://www.emich.edu/historyphilosophy/actacogitata/actacogitatamain.php" role="button">More Information & Past Issues</a>

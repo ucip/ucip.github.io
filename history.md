@@ -8,7 +8,7 @@ permalink: /history/
 <div class="container">
   <div class="col-md-4 col-sm-6 col-xs-12">
     <div class="post-list-box">
-      <h2 class="post-list-header">Past Programs</h2>
+      <h3 class="post-list-header">Past Programs</h3>
       <ul class="post-list">
         <li><a href="{{ site.baseurl }}/docs/2016-program.pdf">2016 Program</a></li>
         <li><a href="{{ site.baseurl }}/docs/2016-abstracts.pdf">2016 Abstracts</a></li>
@@ -23,7 +23,7 @@ permalink: /history/
   </div>
   <div class="col-md-4 col-sm-6 col-xs-12">
     <div class="post-list-box">
-      <h2 class="post-list-header">Past Notes</h2>
+      <h3 class="post-list-header">Past Notes</h3>
       <ul class="post-list">
         <li><a href="{{ site.baseurl }}/docs/2016-notes.pdf">2016 Notes</a></li>
         <li><a href="{{ site.baseurl }}/docs/2015-notes.pdf">2015 Notes</a></li>
@@ -34,7 +34,7 @@ permalink: /history/
   </div>
   <div class="col-md-4 col-sm-12">
     <div class="post-list-box">
-      <h2 class="post-list-header">Past Speakers</h2>
+      <h3 class="post-list-header">Past Speakers</h3>
       <ul class="post-list">
         <li><small>2016:</small> <a href="http://www.emmanuel.edu/academics/our-faculty/michelle-maiese.html">Dr. Michelle Maiese</a>, <small>Emmanuel College</small></li>
         <li><small>2015:</small> <a href="http://www.ginaschouten.com/">Dr. Gina Schouten</a>, <small>Harvard University</small></li>

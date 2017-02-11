@@ -7,7 +7,7 @@ permalink: /arrival/maps/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12 cfp-page">
-    <h2 class="home-h2">Finding the UCiP</h2>
+    <h3 class="home-h3">Finding the UCiP</h3>
     <p class="text-justify">The UCiP will be held in McKenny Hall on the Eastern Michigan University campus. The address for McKenny Hall is:</p>
     <address>
       McKenny Hall<br>
