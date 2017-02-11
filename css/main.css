@@ -27,6 +27,11 @@ body {
   font-variant: small-caps;
 }
 
+.lowercase {
+  font-variant: normal;
+  font-size: .75em;
+}
+
 .navbar-inverse .navbar-brand {
   font-weight: 800;
   font-size: 1.75em;
