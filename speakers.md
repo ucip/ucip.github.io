@@ -61,15 +61,5 @@ interested in getting help tailoring your talk, or thinking more about your pape
     <p class="text-justify">We are excited to meet you and hear your paper! This conference exists only because of you, the
 speakers, but, not so secretly, it is designed for all students of philosophy. Your audience is truly waiting to hear what you have to say! Enjoy.</p>
   </div>
-  <div class="col-sm-3 col-xs-12">
-    <div class="post-list-box announcement">
-      <h2 class="text-center post-list-header">Now Accepting Papers!</h2>
-      <p class="text-center announcement-text">We are currently accepting papers for the 2017 UCiP.</p>
-      <p class="text-center announcement-text">Review the submission guidelines in our Call for Papers (CFP) &ndash; then submit your paper!</p>
-      <div class="text-center">
-        <a class="btn btn-primary cfp" href="{{ site.baseurl }}/cfp/" role="button">View our 2017 CFP</a>
-        <a class="btn btn-primary cfp" href="https://goo.gl/forms/xQAMbifOKAlYHveA3" role="button">Submit a Paper</a>
-      </div>
-    </div>
-  </div>
+  {% include flyer-box.html %}
 </div>

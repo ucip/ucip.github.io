@@ -48,15 +48,5 @@ stress way than presenting. Be your best self when commenting and people will se
     <p class="text-justify">Most commenters provide their speakers with a short summary of their critiques a couple of weeks
 before the talk. This gives the speaker some time to consider responses. It is considered very uncouth for the speaker to change their initial talk in line with the comments, but it is equally uncouth to blindside a speaker. Thus, I strongly recommend you get in contact with your speaker as soon as possible, and you provide them with some idea the line your critiques will take a week or two before the  presentation.</p>
   </div>
-  <div class="col-sm-3 col-xs-12">
-    <div class="post-list-box announcement">
-      <h2 class="text-center post-list-header">Now Accepting Papers!</h2>
-      <p class="text-center announcement-text">We are currently accepting papers for the 2017 UCiP.</p>
-      <p class="text-center announcement-text">Review the submission guidelines in our Call for Papers (CFP) &ndash; then submit your paper!</p>
-      <div class="text-center">
-        <a class="btn btn-primary cfp" href="{{ site.baseurl }}/cfp/" role="button">View our 2017 CFP</a>
-        <a class="btn btn-primary cfp" href="https://goo.gl/forms/xQAMbifOKAlYHveA3" role="button">Submit a Paper</a>
-      </div>
-    </div>
-  </div>
+  {% include flyer-box.html %}
 </div>

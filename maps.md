@@ -22,15 +22,5 @@ permalink: /arrival/maps/
     <p class="text-justify">If you're coming to the UCiP from out of state, please note that the 2 nearest highways to the EMU campus are I-94 and US-23. To assist you in navigating to McKenny Hall, click on "Directions" or "View larger map" on the map below to go to the Google Maps website.</p>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2953.514264390113!2d-83.62776378499656!3d42.24618917919473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883ca85aa1dbf923%3A0x2ee08a88bec72c42!2sMcKenny+Hall!5e0!3m2!1sen!2sus!4v1477894739304" width="100%" height="450" frameborder="0" style="border:0; margin-bottom:1em; max-width:100%;" allowfullscreen></iframe>
   </div>
-  <div class="col-sm-3 col-xs-12">
-    <div class="post-list-box announcement">
-      <h2 class="text-center post-list-header">Now Accepting Papers!</h2>
-      <p class="text-center announcement-text">We are currently accepting papers for the 2017 UCiP.</p>
-      <p class="text-center announcement-text">Review the submission guidelines in our Call for Papers (CFP) &ndash; then submit your paper!</p>
-      <div class="text-center">
-        <a class="btn btn-primary cfp" href="{{ site.baseurl }}/cfp/" role="button">View our 2017 CFP</a>
-        <a class="btn btn-primary cfp" href="https://goo.gl/forms/xQAMbifOKAlYHveA3" role="button">Submit a Paper</a>
-      </div>
-    </div>
-  </div>
+  {% include flyer-box.html %}
 </div>
