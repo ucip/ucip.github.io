@@ -17,7 +17,7 @@ this before, and for many you have never seen it done either. In what follows, I
 program! Commenting on a paper is the next most important role to presenting a paper at a professional conference. Paper writers will be relying on you to do two things: (1) help the audience identify and understand salient features of the paper, and (2) be the key person to ask critical questions that will help the presenter think about, improve, and expand their paper. While this is a shock to most speakers, the audience at a conference might not be well equipped to help the speaker think about their paper critically. Of course, it is nice to simply provide new ideas to an audience, most speakers are actually looking for help in assessing the thoughts in their paper in terms of clarity and closeness to the truth. This is why your job is so important.</p>
     <h3>Details</h3>
     <div class="col-sm-6 img-div-right">
-      <img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/img_1.jpg">
+      <img class="img-responsive img-rounded hidden-print" src="{{ site.baseurl }}/img/img_1.jpg">
     </div>
     <p class="text-justify">First, you should take your job as a presenter seriously. This is especially important because
 commenters are also generating creative output. In many cases, commenters have been noted for their philosophic skills, thoughts, and critical abilities. In some cases, the commenter can be a greater benefit to an audience than the speaker themselves. As a result, you should dress the part of a professional, write your comments in a professional manner, and be kind and courteous to your speaker and the audience.</p>
@@ -37,7 +37,7 @@ such that you are proud to present them in front of an educated set of peers.</p
     <p class="text-justify">First, people are typically focused on the speaker; in this way, you are simply helping the audience
 understand and think about the speaker’s paper. This means, audience almost always view your work as good, since it helps them and since they’re not there to evaluate you; this takes a lot of the pressure of speaking off of you.</p>
     <div class="col-sm-6 img-div-left">
-      <img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/img_2.jpg">
+      <img class="img-responsive img-rounded hidden-print" src="{{ site.baseurl }}/img/img_2.jpg">
     </div>
     <p class="text-justify">Second, some commenters take the time to thank the speakers for their papers and to say a few words
 about the merits of the speaker as a thinker/person/contributor to the profession. This is by no means a requirement; in some cases this comes off as nice and thoughtful, in others it comes off as disingenuous.</p>
