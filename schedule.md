@@ -7,183 +7,211 @@ permalink: /schedule/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12">
-    <h3 class="home-h3">2016 EMU Undergraduate Conference in Philosophy</h3>
+    <h3 class="home-h3">2017 EMU Undergraduate Conference in Philosophy</h3>
     <div>
-      <h4 class="schedule-header">Saturday, March 5th, 2016</h4>
+      <h4 class="schedule-header">Saturday, March 4th, 2017</h4>
       <ul class="schedule-list">
-        <li><h5>9:15 AM to 9:45 AM:</h5>
-          <ul class="schedule-list"><li><p><em>Check in, meet-and-greet</em></p></li></ul>
-        </li>
-        <li><h5>9:45 AM to 10:30 AM:</h5>
+        <li><h5>8:30 AM - 9:00 AM | Welcome</h5>
           <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>Eri Svenson (Harper College) &ndash;<br> “The Purpose, Praxis, and Future of Academia: An Exploration of Fichtean Approaches to Education”</p>
-              <p><em>Commenter &ndash; Matthew Oudbier</em></p>              
-            </li>
-            <li><h5>Room B (342 McKenny &ndash; Alumni Conference Room)</h5>
-              <p>Charles C.J. Oswald (Alma College) &ndash;<br> “Moral Vegetarianism and the Philosophy of Mind”</p>
-              <p><em>Commenter &ndash; Sarah Bruckler</em></p>
+            <li><h5>Tower Room (348):</h5>
+              <p><em>Check-in and Welcome Speech</em></p>              
             </li>
           </ul>
         </li>
-        <li><h5>10:30 AM to 11:15 AM:</h5>
+        <li><h5>9:00 AM - 9:50 AM | Presentations</h5>
           <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>Read Mills (University of Alabama) &ndash;<br> “A Look into Saul Kripke’s Argument Regarding the Impossibility of Unicorns”</p>
-              <p><em>Commenter &ndash; Sabine Bickford</em></p>              
+            <li><h5>Tower Room (348):</h5>
+              <p>Dylan Delikta: “Our Self Understanding Revealed through Contemporary Architecture”</p>
+              <p><em>Comments Provided By: Vanessa Thorburn</em></p>              
             </li>
-            <li><h5>Room B (342 McKenny &ndash; Alumni Conference Room)</h5>
-              <p>Michael Thousand (Northern Michigan University) &ndash;<br> “A Rejection of Skeptical Theism”</p>
-              <p><em>Commenter &ndash; Andrew Dyl</em></p>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Lydia Jane Roy: “Broken Loose: Knowledge and Ideology in John Milton’s Paradise Lost and Ursula K. Le Guin’s The Dispossessed”</p>
+              <p><em>Comments Provided By: Eric Shore</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>11:15 AM to 1:30 PM:</h5>
+        <li><h5>10:00 AM - 10:50 AM | Presentations</h5>
           <ul class="schedule-list">
-            <li><h5>330 McKenny &ndash; Guild Hall</h5>
-              <p><em>Lunch</em></p>              
+            <li><h5>Tower Room (348):</h5>
+              <p>Lauren Williams: “The Chinese Room Experiment Explained”</p>
+              <p><em>Comments Provided By: Mishka Repaska</em></p>              
             </li>
-            <li><p><b>Keynote Speaker:</b> Michelle Maiese (Emmanuel College)</p>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Zakary Drabczyk: “Phenomenal Conservatism and the Belief-Appearance Problem”</p>
+              <p><em>Comments Provided By: Sarah Bruckler</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>1:30 PM to 2:15 PM:</h5>
+        <li><h5>11:00 AM - 11:50 AM | Presentations</h5>
           <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>Jesse Kato (Michigan State University) &ndash;<br> “The False Autonomy of a U.S. Food Consumer”</p>
-              <p><em>Commenter &ndash; Eri Svenson</em></p>              
+            <li><h5>Tower Room (348):</h5>
+              <p>Mahmoud Jalloh: “Authenticity and the Plurality of Identities: Online and Offline Selves”</p>
+              <p><em>Comments Provided By: Dylan Delikta</em></p>              
             </li>
-            <li><h5>Room B (342 McKenny &ndash; Alumni Conference Room)</h5>
-              <p>Clare Áine Keefer (Eastern Michigan University) &ndash;<br> “Minds and Bodies: Early Modern Social Justice”</p>
-              <p><em>Commenter &ndash; Katelyn Pyles</em></p>
+            <li><h5>Alumni Room (342):</h5>
+              <p>C. Áine Keefer: “Subjectivity and Mutuality: Feminist Theology in Film”</p>
+              <p><em>Comments Provided By: Joseph Longo</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>2:15 PM to 3:00 PM:</h5>
+        <li><h5>12:00 PM - 1:30 PM | Lunch</h5>
           <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>Tara Malay (Loyola University, NOLA) &ndash;<br> “Saint Augustine of Hippo’s Refutation of Skepticism in Contra Academicos and Stoic and Manichaean Philosophies and Doctrines in his Confessions”</p>
-              <p><em>Commenter &ndash; Joshua Lyon</em></p>              
-            </li>
-            <li><h5>Room B (342 McKenny &ndash; Alumni Conference Room)</h5>
-              <p>Mayelin De La Cruz (William Patterson University) &ndash;<br> “Non-Emergency Medical Transport Ethics”</p>
-              <p><em>Commenter &ndash; Ryan Dau</em></p>
+            <li><h5>Guild Room (330):</h5>
+              <p>Lunch with keynote speaker Dr. Theresa Tobin</p>
             </li>
           </ul>
         </li>
-        <li><h5>3:00 PM to 3:45 PM:</h5>
+        <li><h5>1:45 PM - 2:50 PM | Activities</h5>
           <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>Matthew Oudbier (Grand Valley State University) &ndash;<br> “Strong and Weak Covenants: Counter to Contradictions and Circularity in Hobbes”</p>
-              <p><em>Commenter &ndash; Daniel Fuhst</em></p>              
+            <li><h5>Tower Room (348):</h5>
+              <p>The Value of Graduate School Panel: Come join professors and current graduate students as you explore what graduate school in philosophy can offer.</p>              
             </li>
-            <li><h5>Room B (342 McKenny &ndash; Alumni Conference Room)</h5>
-              <p>Xinyue Claudia Tong (Emory University) &ndash;<br> “Beyond Kindness and Malice”</p>
-              <p><em>Commenter &ndash; Dylan Delikta</em></p>
+            <li><h5>Guild Hall (330):</h5>
+              <p>Extended Question and Answer Session: Join the keynote speaker after lunch to continue discussing the keynote presentation.</p>
             </li>
           </ul>
         </li>
-        <li><h5>3:45 PM to 4:00 PM:</h5>
+        <li><h5>3:00 PM - 3:50 PM | Presentations</h5>
           <ul class="schedule-list">
-            <li><p><em>Break for Refreshments</em></p></li>
-          </ul>
-        </li>
-        <li><h5>4:00 PM to 4:45 PM:</h5>
-          <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>Margaret Macknick-Champion (Eastern Michigan University) &ndash;<br> “Emilie du Chatelet and the Optimism of Knowledge”</p>
-              <p><em>Commenter &ndash; Clare Áine Keefer</em></p>              
+            <li><h5>Tower Room (348):</h5>
+              <p>Evelyn Reilly: “Freedom and Divine Providence”</p>
+              <p><em>Comments Provided By: Jaymes Dempsey</em></p>              
             </li>
-            <li><h5>Room B (342 McKenny &ndash; Alumni Conference Room)</h5>
-              <p>Yossra Mohammed Hamouda (American University in Cairo) &ndash;<br> “Towards a Non-Objective Solution to the Problem of Other Minds”</p>
-              <p><em>Commenter &ndash; Trent McClain</em></p>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Emily Aquino: “Morality’s Independence of Piety”</p>
+              <p><em>Comments Provided By: Ilyana Ilieva</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>4:45 PM to 5:30 PM:</h5>
+        <li><h5>4:00 PM - 4:50 PM | Presentations</h5>
           <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>K. Raleigh Hansen (Washington State University) &ndash;<br> “Predicting the Truth: Overcoming problems with Popper’s Verisimilitude Through Model Selection Criteria”</p>
-              <p><em>Commenter &ndash; Katie Coulter</em></p>              
+            <li><h5>Tower Room (348):</h5>
+              <p>Tyler Porter: “A Necessary Extension on the Refutation of the Ontological Argument”</p>
+              <p><em>Comments Provided By: Evelyn Reilly</em></p>              
             </li>
-            <li><h5>Room B (342 McKenny &ndash; Alumni Conference Room)</h5>
-              <p>Ryan Dau (Albion College) &ndash;<br> “On the Moral Permissibility of Suicide”</p>
-              <p><em>Commenter &ndash; Mohammed Elshafie</em></p>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Arian Kambakhsh: “Subjective Experience As What Matters in Life”</p>
+              <p><em>Comments Provided By: Emily Aquino</em></p>
+            </li>
+          </ul>
+        </li>
+        <li><h5>5:00 PM - 5:50 PM | Presentations</h5>
+          <ul class="schedule-list">
+            <li><h5>Tower Room (348):</h5>
+              <p>Zanudin Bhullar: “A Practical Demonstration of Time Traveling Paradoxes”</p>
+              <p><em>Comments Provided By: Trent McClain</em></p>              
+            </li>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Zach Thornton: “A Remedy of Counterpart Theory”</p>
+              <p><em>Comments Provided By: Ryan Wiseman</em></p>
             </li>
           </ul>
         </li>
         <br>
-        <li><p><em>Feeling Hungry? Head to Sidetrack Bar and Grill!</em></p></li>
-        <li><p><em>Show your Name Tag from the Conference to your server and get 15% off your meal!</em></p></li>
-        <li><p><em>Sidetrack Bar and Grill is located at <b>56 E Cross St, Ypsilanti, MI 48197</b></em></p></li>
+        <li><h5>Dinner on one’s own:</h5>
+          <ul class="schedule-list">
+            <li>
+              <p>Dinner is not provided; however, local students will be dining at Tower Inn.</p>
+              <p>Tower Inn is located at <b>701 W Cross St, Ypsilanti, MI 48197</b></p>            
+            </li>
+          </ul>
+        </li>
       </ul>
     </div>
     <hr>
     <div class="day-2">
-      <h4 class="schedule-header">Sunday, March 6th, 2016</h4>
+      <h4 class="schedule-header">Sunday, March 5th, 2017</h4>
       <ul class="schedule-list">
-        <li><h5>9:15 AM to 9:45 AM:</h5>
-          <ul class="schedule-list"><li><p><em>Check in</em></p></li></ul>
-        </li>
-        <li><h5>9:45 AM to 10:30 AM:</h5>
+        <li><h5>8:30 AM - 9:00 AM | Welcome</h5>
           <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>Zakary Drabczyk (Grand Valley State University) &ndash;<br> “Moral Realism, Religion, and the Abolitionist Solution”</p>
-              <p><em>Commenter &ndash; Alexandra Gustafson</em></p>              
-            </li>
-            <li><h5>Room B (342 McKenny &ndash; Alumni Conference Room)</h5>
-              <p>Katie Coulter (Eastern Michigan University) &ndash;<br> “Searching for Ethics' Grounding: A Case for Moral Feeling and the Human Relationship to Nature”</p>
-              <p><em>Commenter &ndash; Adam Moody</em></p>
+            <li><h5>Tower Room (348):</h5>
+              <p><em>Check-in and Welcome Speech</em></p>              
             </li>
           </ul>
         </li>
-        <li><h5>10:30 AM to 10:45 AM:</h5>
+        <li><h5>9:00 AM - 9:50 AM | Presentations</h5>
           <ul class="schedule-list">
-            <li><p><em>Break</em></p></li>
-          </ul>
-        </li>
-        <li><h5>10:45 AM to 11:30 AM:</h5>
-          <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>Brandon Wright (Grand Valley State University) &ndash;<br> “No Soft Doctrine: Royce on the Problem of Evil”</p>
-              <p><em>Commenter &ndash; Greg Woodring</em></p>              
+            <li><h5>Tower Room (348):</h5>
+              <p>See other rooms.</p>              
             </li>
-            <li><h5>Room B (342 McKenny &ndash; Alumni Conference Room)</h5>
-              <p>Alexandra Gustafson (The College of Wooster) &ndash;<br> “The Language of Poetry”</p>
-              <p><em>Commenter &ndash; Read Mills</em></p>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Sarah Bruckler: “Is it solipsistic in here, or is it just me?”</p>
+              <p><em>Comments Provided By: Lauren Williams</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>11:30 AM to 12:15 PM:</h5>
+        <li><h5>10:00 AM - 10:50 AM | Presentations</h5>
           <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>Danielle Clevenger (Eastern Michigan University) &ndash;<br> “The Science of Communication”</p>
-              <p><em>Commenter &ndash; Michael Kong</em></p>              
+            <li><h5>Tower Room (348):</h5>
+              <p>Mackenzie Bouverat: “Belief, Basic Action, and Justification: Explaining Doxastic Involuntarism”</p>
+              <p><em>Comments Provided By: Isabella Carlson</em></p>              
             </li>
-            <li><h5>Room B (342 McKenny &ndash; Alumni Conference Room)</h5>
-              <p>Mohammed Elshafie (University of Michigan) &ndash;<br> “Maimon’s Philosophical Project”</p>
-              <p><em>Commenter &ndash; Chanda Victoria</em></p>
-            </li>
-          </ul>
-        </li>
-        <li><h5>12:15 AM to 1:30 PM:</h5>
-          <ul class="schedule-list">
-            <li><h5>330 McKenny &ndash; Guild Hall</h5>
-              <p><em>Lunch</em></p>              
+            <li><h5>Alumni Room (342):</h5>
+              <p>Ilyana Ilieva: “On the Juxtaposition of Epistemologies: From Al-Ghazali to Edmund Husserl”</p>
+              <p><em>Comments Provided By: Cody Myers</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>1:30 PM to 2:15 PM:</h5>
+        <li><h5>11:00 AM - 11:50 AM | Presentations</h5>
           <ul class="schedule-list">
-            <li><h5>Room A (348 McKenny &ndash; The Tower Room)</h5>
-              <p>Jacob Deutsch (Eastern Michigan University) &ndash;<br> “No Subject Left Behind: An Audit of Philosophy in a STEM Society”</p>
-              <p><em>Commenter &ndash; Zakary Drabczyk</em></p>              
+            <li><h5>Tower Room (348):</h5>
+              <p>Cody Myers: “Feminism and Disability”</p>
+              <p><em>Comments Provided By: Mitchell DeVore</em></p>              
+            </li>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Gina Gaebl: “On the Liberation of all Women: Socialist Feminism and Materialist Ecofeminism”</p>
+              <p><em>Comments Provided By: Sabine Bickford</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>2:15 PM to 3:00 PM:</h5>
+        <li><h5>12:00 PM - 1:00 PM | Lunch</h5>
           <ul class="schedule-list">
-            <li><p><em>Closing Ceremony</em></p></li>
+            <li><h5>Guild Room (330):</h5>
+              <p>Lunch</p>
+            </li>
+          </ul>
+        </li>
+        <li><h5>1:00 PM - 1:50 PM | Presentations</h5>
+          <ul class="schedule-list">
+            <li><h5>Tower Room (348):</h5>
+              <p>Wendy Wang: “Ethics of Medical Disclosure: Theory, Praxis, and Future Directions”</p>
+              <p><em>Comments Provided By: Natalie Anderson</em></p>             
+            </li>
+            <li><h5>Tower Room (348):</h5>
+              <p>Andrew Beddow: “Freedom, Moral Territory, and Rights”</p>
+              <p><em>Comments Provided By: Ashley Jordan</em></p>             
+            </li>
+          </ul>
+        </li>
+        <li><h5>2:00 PM - 2:50 PM | Presentations</h5>
+          <ul class="schedule-list">
+            <li><h5>Tower Room (348):</h5>
+              <p>Mishka Repaska: “On Longino's Conception of Objectivity in Science”</p>
+              <p><em>Comments Provided By: Blake Trinske</em></p>              
+            </li>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Brandon Flynn: “How Morally Hazardous Circumstances Led to Financial Crisis in 2008”</p>
+              <p><em>Comments Provided By: Deborah Hansen</em></p>
+            </li>
+          </ul>
+        </li>
+        <li><h5>3:00 PM - 3:50 PM | Presentations</h5>
+          <ul class="schedule-list">
+            <li><h5>Tower Room (348):</h5>
+              <p>Isabella Carlsson: “Risk: Not a Consequence</p>
+              <p><em>Comments Provided By: Brandon Sampson</em></p>              
+            </li>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Hailey Hawes: “The Kantian Solution to Hegel's Primitive Problem of Mutual Recognition”</p>
+              <p><em>Comments Provided By: Nathan Cox</em></p>
+            </li>
+          </ul>
+        </li>
+        <li><h5>4:00 PM - 4:50 PM | Closing</h5>
+          <ul class="schedule-list">
+            <li><h5>Tower Room (348):</h5>
+              <p>Closing awards</p>              
+            </li>
           </ul>
         </li>
       </ul>
