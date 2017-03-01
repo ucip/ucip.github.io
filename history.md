@@ -12,7 +12,8 @@ permalink: /history/
       <ul class="post-list">
         <li><a href="{{ site.baseurl }}/docs/2016-program.pdf">2016 Program</a></li>
         <li><a href="{{ site.baseurl }}/docs/2016-abstracts.pdf">2016 Abstracts</a></li>
-        <!--<li><a href="{{ site.baseurl }}/docs/2015-program.pdf">2015 Program</a></li>-->
+        <li><a href="{{ site.baseurl }}/docs/2015-program.pdf">2015 Program</a></li>
+        <li><a href="{{ site.baseurl }}/docs/2015-abstracts.pdf">2015 Abstracts</a></li>
         <li><a href="{{ site.baseurl }}/docs/2014-program.pdf">2014 Program</a></li>
         <li><a href="{{ site.baseurl }}/docs/2014-abstracts.pdf">2014 Abstracts</a></li>
         <li><a href="{{ site.baseurl }}/docs/2013-program.pdf">2013 Program</a></li>
