@@ -146,6 +146,18 @@ hr {
   position: relative;
 }
 
+.gallery-box {
+  padding: 1em;
+  margin-bottom: 2em;
+  background-color: #f9f9f9;
+  border: 1px solid #e6e6e6;
+  position: relative;
+}
+
+.img-thumbnail {
+  width: 45%;
+}
+
 .post-list {
   list-style-type: none;
   margin-left: -2.5em;
@@ -212,6 +224,7 @@ footer {
   .home-jumbotron { height: 350px; }
   .home-jumbotron h1 { margin-top: 1em; }
   .post-list-box { height: auto; }
+  .img-thumbnail { width:100%; }
 }
 
 @media only screen and (max-width: 992px) {
