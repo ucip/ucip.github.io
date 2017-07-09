@@ -15,5 +15,5 @@ permalink: /arrival/accommodations/
     <h4>Hotels near EMU Campus</h4>
     <iframe src="https://www.google.com/maps/d/embed?mid=1jy3O7yO0u07j4aw4yLTmqAnJoDg" width="100%" height="480"></iframe>
   </div>
-  {% include flyer-box.html %}
+  {% include box.html %}
 </div>

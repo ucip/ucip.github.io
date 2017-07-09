@@ -48,5 +48,5 @@ stress way than presenting. Be your best self when commenting and people will se
     <p class="text-justify">Most commenters provide their speakers with a short summary of their critiques a couple of weeks
 before the talk. This gives the speaker some time to consider responses. It is considered very uncouth for the speaker to change their initial talk in line with the comments, but it is equally uncouth to blindside a speaker. Thus, I strongly recommend you get in contact with your speaker as soon as possible, and you provide them with some idea the line your critiques will take a week or two before the  presentation.</p>
   </div>
-  {% include flyer-box.html %}
+  {% include box.html %}
 </div>

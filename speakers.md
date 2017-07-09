@@ -61,5 +61,5 @@ interested in getting help tailoring your talk, or thinking more about your pape
     <p class="text-justify">We are excited to meet you and hear your paper! This conference exists only because of you, the
 speakers, but, not so secretly, it is designed for all students of philosophy. Your audience is truly waiting to hear what you have to say! Enjoy.</p>
   </div>
-  {% include flyer-box.html %}
+  {% include box.html %}
 </div>

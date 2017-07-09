@@ -19,5 +19,5 @@ permalink: /journal/
     <p class="text-justify">The journal is published annually, in October.</p>
     <p class="text-justify"><b>Journal Editor:</b> Dr. W. John Koolage, <a href="mailto:wkoolage@emich.edu">wkoolage@emich.edu</a></p>
   </div>
-  {% include flyer-box.html %}
+  {% include box.html %}
 </div>
