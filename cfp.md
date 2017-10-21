@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "2017 Call for Papers"
+title: "2018 Call for Papers"
 header-img: "img/header.jpg"
 permalink: /cfp/
 ---
