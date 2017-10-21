@@ -17,7 +17,7 @@ permalink: /journal/
     <p class="text-justify">The journal accepts papers from all areas of philosophy and seeks to promote philosophical discourse in any area where such discourse may be illuminating.</p>
     <p class="text-justify">The journal is published annually, in October.</p>
     <p class="text-justify"><b>Journal Editor:</b> <a href="http://www.emich.edu/historyphilosophy/philosophy/faculty/scoville.php">Professor Michael Scoville</a></p>
-    <p class="text-justify">Questions regarding Acta Cogitata can be sent to the <a href="mailto:ActaCogitata@gmail.com">journal's email address</a> or to <a href="mailto:jscovil1@emich.edu">Professor Michael Scoville</a>.</p>
+    <p class="text-justify">Questions regarding Acta Cogitata can be sent to the journal's email address (<a href="mailto:ActaCogitata@gmail.com">ActaCogitata@gmail.com</a>) or to Professor Michael Scoville (<a href="mailto:jscovil1@emich.edu">jscovil1@emich.edu</a>).</p>
   </div>
   {% include box.html %}
 </div>
