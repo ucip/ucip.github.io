@@ -19,7 +19,7 @@ permalink: /arrival/maps/
     <p class="text-justify"><a href="https://www.emich.edu/maps/">Click here to view EMU's interactive Campus Map</a></p>
     <p class="text-justify">You can use the map linked above to navigate campus. In the upper right corner of the map, you can search for McKenny Hall, display parking information, and download a printable map.</p>
     <h3>Google Maps</h3>
-    <p class="text-justify">If you're coming to the UCiP from out of state, please note that the 2 nearest highways to the EMU campus are I-94 and US-23. To assist you in navigating to McKenny Hall, click on "Directions" or "View larger map" on the map below to go to the Google Maps website.</p>
+    <p class="text-justify">If you're coming to the UCiP from out of state, please note that the nearest highways to the EMU campus are I-94 and US-23. To assist you in navigating to McKenny Hall, click on the icon on the map to select McKenny Hall, then click the directions icon (<img src="{{ site.baseurl }}/img/directions_icon.png" height="17px" width="17px">) to go to the Google Maps website.</p>
     <iframe src="https://www.google.com/maps/d/embed?mid=12Hr6p0a30oHDAMClFugS3V2-n2w" width="100%" height="480"></iframe>
   </div>
   {% include box.html %}
