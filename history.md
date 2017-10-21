@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "UCiP History"
+title: "Past Programs, Notes, and Speakers"
 header-img: "img/header.jpg"
 permalink: /history/
 ---
@@ -37,29 +37,13 @@ permalink: /history/
     <div class="post-list-box">
       <h3 class="post-list-header">Past Speakers</h3>
       <ul class="post-list">
+        <li class="text-small">W 2017: <a href="http://www.marquette.edu/phil/faculty_tobin.shtml">Theresa W. Tobin</a>, Marquette University</li>
         <li class="text-small">W 2016: <a href="http://www.emmanuel.edu/academics/our-faculty/michelle-maiese.html">Dr. Michelle Maiese</a>, Emmanuel College</li>
         <li class="text-small">W 2015: <a href="http://www.ginaschouten.com/">Dr. Gina Schouten</a>, Harvard University</li>
         <li class="text-small">W 2014: <a href="https://ericstencil.wordpress.com/">Dr. Eric Stencil</a>, Utah Valley University</li>
         <li class="text-small">W 2013: <a href="http://philosophy.olemiss.edu/deborah-mower/">Dr. Deborah Mower</a>, Uni. of Mississippi</li>
         <li class="text-small">W 2012: <a href="https://www.northeastern.edu/cssh/faculty/john-basl">Dr. John Basl</a>, Northeastern University</li>
       </ul>
-    </div>
-  </div>
-  <div class="col-sm-12 hidden-print">
-    <div class="gallery-box">
-      <h3 class="post-list-header">Gallery</h3>
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_5.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_12.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_1.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_2.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_3.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_4.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_11.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_6.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_7.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_8.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_9.jpg">
-      <img class="img-responsive img-thumbnail" src="{{ site.baseurl }}/img/img_10.jpg">
     </div>
   </div>
 </div>
