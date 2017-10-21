@@ -7,7 +7,8 @@ permalink: /schedule/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12">
-    <h3 class="home-h3">(Concluded) Winter 2017 EMU Undergraduate Conference in Philosophy</h3>
+    <h3 class="home-h3">Winter 2017 EMU UCiP (Concluded)</h3>
+    <p><small><b>Note:</b> Papers selected for presentation will be announced by the end of January. The 2018 UCiP Schedule will be available shortly thereafter.</small></p>
     <div>
       <h4 class="schedule-header">Saturday, March 4th, 2017</h4>
       <ul class="schedule-list">
