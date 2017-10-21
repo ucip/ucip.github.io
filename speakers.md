@@ -8,7 +8,7 @@ permalink: /advice/speakers/
 <div class="container">
   <div class="col-sm-9 col-xs-12 cfp-page">
     <h3 class="home-h3">How to give a talk (at the UCiP)</h3>
-    <p class="text-justify">By: Professor W. John Koolage</p>
+    <p class="text-justify">By: <a href="http://www.emich.edu/historyphilosophy/philosophy/faculty/jkoolage.php">Professor W. John Koolage</a></p>
     <p class="text-justify"><a href="{{ site.baseurl }}/docs/adviceforspeakers.pdf" target="_blank">Click here to download a .pdf of this advice.</a></p>
     <p class="text-justify">So, you have been invited to give a talk at our Undergraduate Conference in Philosophy. In all likelihood, you have given some presentations before. A formal talk is not unlike the informal ones you have given in class; the main differences will be the setting is a bit grander, you will receive formal comments, and that questions from the audience will be less structured. In what follows, I offer some suggestions on how to prepare and deliver a formal talk (noting that these suggestions are tailored to our conference in particular).</p>
     <h3>Basics</h3>

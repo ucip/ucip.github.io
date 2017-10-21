@@ -8,7 +8,7 @@ permalink: /advice/commentators/
 <div class="container">
   <div class="col-sm-9 col-xs-12 cfp-page">
     <h3 class="home-h3">How to comment on a paper</h3>
-    <p class="text-justify">By: Professor W. John Koolage</p>
+    <p class="text-justify">By: <a href="http://www.emich.edu/historyphilosophy/philosophy/faculty/jkoolage.php">Professor W. John Koolage</a></p>
     <p class="text-justify"><a href="{{ site.baseurl }}/docs/commentinstructions.pdf" target="_blank">Click here to download a .pdf of this advice.</a></p>
     <p class="text-justify">So, you have been asked to comment on a paper at a conference. In all likelihood you have not done
 this before, and for many you have never seen it done either. In what follows, I offer some suggestions as to how to approach commenting at a professional conference.</p>
