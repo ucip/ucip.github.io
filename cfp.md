@@ -7,12 +7,12 @@ permalink: /cfp/
 
 <div class="container">
   <div class="col-md-8 col-md-offset-2 cfp-page">
-    <h3 class="home-h3">Submission Deadline: January 7th, 2018</h3>
+    <h3 class="home-h3">Submission Deadline Extended: January 21st, 2018</h3>
     <p class="text-justify">The Eastern Michigan University Undergraduate Conference in Philosophy is now accepting papers
 for its conference to be held at EMU on Saturday and Sunday, March 3rd and 4th, 2018.  Papers selected for presentation will be allotted 20 minute presentation times, followed by formal comments and Q & A.  All papers in philosophy, broadly construed, will be considered for the conference; since this is an undergraduate conference, no papers by professionals, graduate students, or others holding an advanced degree (in philosophy) will be considered.</p>
     <h3>Submission Guidelines</h3>
     <p class="text-justify"><b>Papers submitted for the conference should be 8-12 pages (2200-3600 words) in length and include an abstract approximately 250 words in length.</b></p>
-    <p class="text-justify">The deadline for submission is <strong>Sunday, January 7, 2018,</strong> and only completed papers accompanied by an abstract will be reviewed. We expect to announce the papers selected for presentation before the end of January.</p>
+    <p class="text-justify">The deadline for submission has been extended to <strong>Sunday, January 21, 2018,</strong> and only completed papers accompanied by an abstract will be reviewed. We expect to announce the papers selected for presentation before the end of January.</p>
     <p class="text-justify">We will also be using a formal commenter system; so, even if your paper is not selected for presentation, you may be considered for such a role.  Please let us know, along with your paper submission, if you are willing to comment.  This also means that all selected papers will receive formal feedback at the conference.</p>
     <p class="text-justify"><b>Papers and abstracts should be submitted electronically. Click the button below to submit your paper!</b></p>
     <div class="text-center">
