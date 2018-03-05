@@ -7,7 +7,7 @@ permalink: /history/
 
 <div class="container">
   <div class="row">
-    <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <div class="post-list-box">
         <h3 class="post-list-header">Past Programs</h3>
         <ul class="post-list">
@@ -22,7 +22,7 @@ permalink: /history/
         </ul>
       </div>
     </div>
-    <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <div class="post-list-box">
         <h3 class="post-list-header">Past Abstracts</h3>
         <ul class="post-list">
@@ -34,7 +34,7 @@ permalink: /history/
         </ul>
       </div>
     </div>
-    <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="col-md-4 col-sm-6 col-xs-12">
       <div class="post-list-box">
         <h3 class="post-list-header">Past Notes</h3>
         <ul class="post-list">
@@ -47,7 +47,7 @@ permalink: /history/
     </div>
   </div>
   <div class="row">
-    <div class="col-md-3 col-sm-6 col-xs-12">
+    <div class="col-xs-12">
       <div class="post-list-box">
         <h3 class="post-list-header">Past Speakers</h3>
         <ul class="post-list">
