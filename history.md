@@ -51,36 +51,13 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Speakers</h3>
         <ul class="post-list">
-          <li class="text-small">W 2017: <a href="http://www.marquette.edu/phil/faculty_tobin.shtml">Theresa W. Tobin</a>
-            <ul class="university">
-              <li>Marquette University</li>
-            </ul>
-          </li>
-          <li class="text-small">W 2016: <a href="http://www.emmanuel.edu/academics/our-faculty/michelle-maiese.html">Dr. Michelle Maiese</a>
-            <ul class="university">
-              <li>Emmanuel College</li>
-            </ul>
-          </li>
-          <li class="text-small">W 2015: <a href="http://www.ginaschouten.com/">Dr. Gina Schouten</a>
-            <ul class="university">
-              <li>Harvard University</li>
-            </ul>
-          </li>
-          <li class="text-small">W 2014: <a href="https://ericstencil.wordpress.com/">Dr. Eric Stencil</a>
-            <ul class="university">
-              <li>Utah Valley University</li>
-            </ul>
-          </li>
-          <li class="text-small">W 2013: <a href="http://philosophy.olemiss.edu/deborah-mower/">Dr. Deborah Mower</a>
-            <ul class="university">
-              <li>Uni. of Mississippi</li>
-            </ul>
-          </li>
-          <li class="text-small">W 2012: <a href="https://www.northeastern.edu/cssh/faculty/john-basl">Dr. John Basl</a>
-            <ul class="university">
-              <li>Northeastern University</li>
-            </ul>
-          </li>
+          <li class="text-small">W 2017: <a href="https://www.mun.ca/philosophy/faculty/hoff.php">Shannon Hoff</a>, Memorial University of Newfoundland</li>
+          <li class="text-small">W 2017: <a href="http://www.marquette.edu/phil/faculty_tobin.shtml">Theresa W. Tobin</a>, Marquette University</li>
+          <li class="text-small">W 2016: <a href="http://www.emmanuel.edu/academics/our-faculty/michelle-maiese.html">Dr. Michelle Maiese</a>, Emmanuel College</li>
+          <li class="text-small">W 2015: <a href="http://www.ginaschouten.com/">Dr. Gina Schouten</a>, Harvard University</li>
+          <li class="text-small">W 2014: <a href="https://ericstencil.wordpress.com/">Dr. Eric Stencil</a>, Utah Valley University</li>
+          <li class="text-small">W 2013: <a href="http://philosophy.olemiss.edu/deborah-mower/">Dr. Deborah Mower</a>, University of Mississippi</li>
+          <li class="text-small">W 2012: <a href="https://www.northeastern.edu/cssh/faculty/john-basl">Dr. John Basl</a>, Northeastern University</li>
         </ul>
       </div>
     </div>
