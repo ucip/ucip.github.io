@@ -7,8 +7,11 @@ permalink: /cfp/
 
 <div class="container">
   <div class="col-md-8 col-md-offset-2 cfp-page">
-    <h3 class="home-h3">Submission Deadline Extended: January 21st, 2018</h3>
-    <p class="text-justify">The Eastern Michigan University Undergraduate Conference in Philosophy is now accepting papers
+    <h3 class="home-h3">Submission Deadline: To Be Announced</h3>
+    <p class="text-justify">The 2018 UCiP has concluded. Next year's Call for Papers will be announced in early November, 2018. Check back then to submit your paper!</p>
+    <p class="text-justify">In the meantime, <a href="{{ site.baseurl }}/schedule/">check out the 2018 UCiP (concluded) Schedule</a>, <a href="{{ site.baseurl }}/history/">look through past programs, notes, and keynote speakers,</a> or <a href="{{ site.baseurl }}/gallery/">see what's happened at past conferences</a> to get a feel for how UCiP operates.</p>
+</p>
+    <!--<p class="text-justify">The Eastern Michigan University Undergraduate Conference in Philosophy is now accepting papers
 for its conference to be held at EMU on Saturday and Sunday, March 3rd and 4th, 2018.  Papers selected for presentation will be allotted 20 minute presentation times, followed by formal comments and Q & A.  All papers in philosophy, broadly construed, will be considered for the conference; since this is an undergraduate conference, no papers by professionals, graduate students, or others holding an advanced degree (in philosophy) will be considered.</p>
     <h3>Submission Guidelines</h3>
     <p class="text-justify"><b>Papers submitted for the conference should be 8-12 pages (2200-3600 words) in length and include an abstract approximately 250 words in length.</b></p>
@@ -17,10 +20,10 @@ for its conference to be held at EMU on Saturday and Sunday, March 3rd and 4th, 
     <p class="text-justify"><b>Papers and abstracts should be submitted electronically. Click the button below to submit your paper!</b></p>
     <div class="text-center">
       <a class="btn btn-primary cfp" href="https://goo.gl/forms/xQAMbifOKAlYHveA3" role="button">Submit a Paper</a>
-    </div>
+    </div>-->
     <h3>Additional Information</h3>
-    <h4>Keynote Speaker</h4>
-    <p class="text-justify">This year's Keynote Speaker will be <a href="https://www.mun.ca/philosophy/faculty/hoff.php">Dr. Shannon Hoff</a> from Memorial University of Newfoundland.</p>
+    <h4>Winter 2018 Keynote Speaker</h4>
+    <p class="text-justify">The Winter 2018 UCiP Keynote Speaker was <a href="https://www.mun.ca/philosophy/faculty/hoff.php">Dr. Shannon Hoff</a> from Memorial University of Newfoundland.</p>
     <h4>Faculty Mentors</h4>
     <p class="text-justify">We have enjoyed having faculty attend in a purely support role.  We strongly encourage students to bring faculty mentors to the conference.  The dialog among professors, discussion of pedagogy, and expansion of mentoring opportunities for students, are among the desirable benefits of this conference. Additionally, faculty have played an important role in the success of the conference.</p>
     <h4>Publication Opportunity</h4>
