@@ -7,10 +7,9 @@ permalink: /cfp/
 
 <div class="container">
   <div class="col-md-8 col-md-offset-2 cfp-page">
-    <h3 class="home-h3">Submission Deadline: To Be Announced</h3>
+    <h3 class="home-h3">Submission Deadline: TBA</h3>
     <p class="text-justify">The 2018 UCiP has concluded. Next year's Call for Papers will be announced in early November, 2018. Check back then to submit your paper!</p>
-    <p class="text-justify">In the meantime, <a href="{{ site.baseurl }}/schedule/">check out the 2018 UCiP (concluded) Schedule</a>, <a href="{{ site.baseurl }}/history/">look through past programs, notes, and keynote speakers,</a> or <a href="{{ site.baseurl }}/gallery/">see what's happened at past conferences</a> to get a feel for how UCiP operates.</p>
-</p>
+    <p class="text-justify">In the meantime, you can <a href="{{ site.baseurl }}/schedule/">check out the 2018 UCiP (concluded) Schedule</a>, <a href="{{ site.baseurl }}/history/">look through past programs, notes, and keynote speakers,</a> or <a href="{{ site.baseurl }}/gallery/">see what's happened at past conferences</a> to get a feel for how UCiP operates.</p>
     <!--<p class="text-justify">The Eastern Michigan University Undergraduate Conference in Philosophy is now accepting papers
 for its conference to be held at EMU on Saturday and Sunday, March 3rd and 4th, 2018.  Papers selected for presentation will be allotted 20 minute presentation times, followed by formal comments and Q & A.  All papers in philosophy, broadly construed, will be considered for the conference; since this is an undergraduate conference, no papers by professionals, graduate students, or others holding an advanced degree (in philosophy) will be considered.</p>
     <h3>Submission Guidelines</h3>
