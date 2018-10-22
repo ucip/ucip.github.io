@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Past Programs, Notes, and Speakers"
+title: "Programs, Notes, & Speakers"
 header-img: "img/header.jpg"
 permalink: /history/
 ---
