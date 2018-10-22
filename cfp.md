@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "2019 Call for Papers"
-subtitle: "The 9th Annual UCiP is accepting papers!"
 header-img: "img/header.jpg"
 permalink: /cfp/
 ---
