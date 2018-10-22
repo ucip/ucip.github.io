@@ -15,9 +15,9 @@ permalink: /journal/
     <h3>Mission</h3>
     <p class="text-justify">Acta Cogitata is dedicated to providing a venue for undergraduate authors of original philosophical papers to have their work reviewed and, possibly, published. Publication acknowledges the work of outstanding undergraduate authors, rewards their efforts, and provides a home for some thought-provoking projects. Acta Cogitata's authors retain the copyright so that they may continue to develop their projects. The journal does not publish work that has previously been published elsewhere.</p>
     <p class="text-justify">The journal accepts papers from all areas of philosophy and seeks to promote philosophical discourse in any area where such discourse may be illuminating.</p>
-    <p class="text-justify">The journal is published annually, in October.</p>
-    <p class="text-justify"><b>Journal Editor:</b> <a href="http://www.emich.edu/historyphilosophy/philosophy/faculty/scoville.php">Professor Michael Scoville</a></p>
-    <p class="text-justify">Questions regarding Acta Cogitata can be sent to the journal's email address (<a href="mailto:ActaCogitata@gmail.com">ActaCogitata@gmail.com</a>) or to Professor Michael Scoville (<a href="mailto:jscovil1@emich.edu">jscovil1@emich.edu</a>).</p>
+    <p class="text-justify">The journal is published annually, in late October or early November.</p>
+    <p class="text-justify"><b>Journal Editor:</b> <a href="https://www.emich.edu/historyphilosophy/philosophy/faculty/jkoolage.php">Dr. W. John Koolage</a></p>
+    <p class="text-justify">Questions regarding Acta Cogitata can be sent to the journal's email address (<a href="mailto:ActaCogitata@gmail.com">ActaCogitata@gmail.com</a>) or to Dr. W. John Koolage (<a href="mailto:wkoolage@emich.edu">wkoolage@emich.edu</a>).</p>
   </div>
   {% include box.html %}
 </div>
