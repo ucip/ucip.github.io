@@ -13,7 +13,7 @@ kramdown:
   input: GFM
 permalink: pretty
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
