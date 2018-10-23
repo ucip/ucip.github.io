@@ -180,6 +180,16 @@ hr {
   margin-bottom: 1em;
 }
 
+.phil-events {
+  background: rgba(56,52,148,.8);
+  border: rgba(56,52,148,.9);
+}
+
+.phil-events:hover {
+  background: rgba(56,52,148,.95);
+  border: rgba(56,52,148,1);
+}
+
 .schedule-list {
   list-style-type: none;
 }
