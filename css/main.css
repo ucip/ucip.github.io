@@ -224,6 +224,23 @@ footer {
   height: 5em;
 }
 
+.inclusive {
+  float: right;
+  margin-bottom: 0;
+  margin-top: 1.45em;
+  width: 50%;
+  max-width: 100%;
+}
+
+.inclusive-p {
+  position:absolute;
+  left:-10000px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+}
+
 @media only screen and (max-width: 768px) {
   .collapsing, .in {background-color: rgb(0,105,63);}
   .collapsing ul li a, .in ul li a {color: rgb(255,255,255) !important;}
@@ -232,9 +249,11 @@ footer {
   .home-jumbotron h1 { margin-top: 1em; }
   .post-list-box { height: auto; }
   .img-thumbnail { width:100%; }
+  .inclusive { float: left; margin: 0 1em; width: 85%; max-width: 90%; }
 }
 
 @media only screen and (max-width: 992px) {
   .post-list-box { height: 15em; }
   .announcement {height: auto; }
+  .cfp { font-size: .75em; }
 }
