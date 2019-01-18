@@ -47,7 +47,7 @@ permalink: /history/
     </div>
   </div>
   <div class="row">
-    <div class="col-xs-12">
+    <div class="col-sm-6 col-xs-12">
       <div class="post-list-box">
         <h3 class="post-list-header">Past Speakers</h3>
         <ul class="post-list">
@@ -58,6 +58,19 @@ permalink: /history/
           <li class="text-small">W 2014: <a href="https://ericstencil.wordpress.com/">Dr. Eric Stencil</a>, Utah Valley University</li>
           <li class="text-small">W 2013: <a href="http://philosophy.olemiss.edu/deborah-mower/">Dr. Deborah Mower</a>, University of Mississippi</li>
           <li class="text-small">W 2012: <a href="https://www.northeastern.edu/cssh/faculty/john-basl">Dr. John Basl</a>, Northeastern University</li>
+        </ul>
+      </div>
+    </div>
+    <div class="col-sm-6 col-xs-12">
+      <div class="post-list-box">
+        <h3 class="post-list-header">Past Journals</h3>
+        <ul class="post-list">
+          <li class="text-small"><a href="https://commons.emich.edu/ac/vol6/iss1/">Acta Cogitata: Issue 6, January 2019</a></li>
+          <li class="text-small"><a href="https://commons.emich.edu/ac/vol5/iss1/">Acta Cogitata: Issue 5, October 2017</a></li>
+          <li class="text-small"><a href="{{ site.baseurl }}/docs/2016-journal.pdf">Acta Cogitata: Issue 4, October 2016</a></li>
+          <li class="text-small"><a href="{{ site.baseurl }}/docs/2015-journal.pdf">Acta Cogitata: Issue 3, October 2015</a></li>
+          <li class="text-small"><a href="{{ site.baseurl }}/docs/2014-journal.pdf">Acta Cogitata: Issue 2, October 2014</a></li>
+          <li class="text-small"><a href="{{ site.baseurl }}/docs/2013-journal.pdf">Acta Cogitata: Issue 1, October 2013</a></li>
         </ul>
       </div>
     </div>
