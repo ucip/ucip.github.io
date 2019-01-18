@@ -11,7 +11,7 @@ permalink: /journal/
     <p class="text-justify">Acta Cogitata is Eastern Michigan University's undergraduate journal of philosophy. The journal is dedicated to disseminating ideas and serious work in the discipline, and celebrating the work and contribution to the field of students without advanced training in philosophy. Several papers from the conference are published in this journal each year. The journal also accepts regular submissions throughout the year.</p>
     <div class="text-center">
       <a class="btn btn-primary journal-btns" href="http://www.emich.edu/historyphilosophy/philosophy/beyond-the-classroom/acta-cogitata.php" role="button">Submission Guidelines</a>
-      <a class="btn btn-primary journal-btns" href="{{ site.baseurl }}/past-issues/" role="button">Past Issues</a>
+      <a class="btn btn-primary journal-btns" href="{{ site.baseurl }}/history/" role="button">Past Issues</a>
     </div>
     <h3>Mission</h3>
     <p class="text-justify">Acta Cogitata is dedicated to providing a venue for undergraduate authors of original philosophical papers to have their work reviewed and, possibly, published. Publication acknowledges the work of outstanding undergraduate authors, rewards their efforts, and provides a home for some thought-provoking projects. Acta Cogitata's authors retain the copyright so that they may continue to develop their projects. The journal does not publish work that has previously been published elsewhere.</p>
