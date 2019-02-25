@@ -7,113 +7,121 @@ permalink: /schedule/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12">
-    <h3 class="home-h3">Winter 2018 EMU UCiP (concluded)</h3>
+    <h3 class="home-h3">Winter 2019 EMU UCiP</h3>
     <!--<p><small><b>Note:</b> Papers selected for presentation will be announced by the end of January. The 2018 UCiP Schedule will be available shortly thereafter.</small></p>-->
     <div>
-      <h4 class="schedule-header">Saturday, March 3rd, 2018</h4>
+      <h4 class="schedule-header">Friday, March 8th, 2019</h4>
       <ul class="schedule-list">
-        <li><h5>8:30 AM - 9:00 AM | Welcome</h5>
+        <li><h5>7:00 PM - 9:30 PM | WELCOME EVENT</h5>
           <ul class="schedule-list">
-            <li><h5>Tower Room (348):</h5>
-              <p><em>Check-in and Welcome Speech</em></p>              
+            <li><h5>Alumni Lounge (232):</h5>
+              <p>Welcome Event: <em>Join the EMU Philosophy Club and your fellow participants for this laid-back meet & greet! Light refreshments are provided.</em></p>              
             </li>
           </ul>
         </li>
-        <li><h5>9:00 AM - 9:50 AM | Presentations</h5>
+      </ul>
+      <h4 class="schedule-header">Saturday, March 9th, 2019</h4>
+      <ul class="schedule-list">
+        <li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Max Leonov, Northeastern University: “Parallels in Value Between Humans and Nature”</p>
-              <p><em>Comments Provided By: Marisa Kennedy, Eastern Michigan University</em></p>              
+              <p>Check-in & Breakfast: <em>Join Dr. John Koolage for a brief welcome message and breakfast!</em></p>              
+            </li>
+          </ul>
+        </li>
+        <li><h5>9:00 AM - 9:50 AM | PRESENTATIONS</h5>
+          <ul class="schedule-list">
+            <li><h5>Tower Room (348):</h5>
+              <p>Peyton Harrington, Belmont University: “Why Virtue Cannot Be Taught: An Analysis of Plato's Meno and Anselm of Canterbury”<br>
+              <em>Comments: Blake Trinske, Eastern Michigan University</em></p>              
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Sarah Becker, Hillsdale College: “The Return of Relationality: Aquinas’ Account of Intellectual Action and Personhood”</p>
-              <p><em>Comments Provided By: Robert Del Mauro, Seton Hall University</em></p>
+              <p>Benjamin Cummins, Purdue University: “The Lowering Amplitude of Hedonic Adaptation”<br>
+              <em>Comments: Joe Longo, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>10:00 AM - 10:50 AM | Presentations</h5>
+        <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Sarah Zuniga, Eureka College: “The Unhappiest Jean-Jacques? An Examination of Rousseau Through Kierkegaard’s ‘The Unhappiest One’”</p>
-              <p><em>Comments Provided By: Joseph Longo, Eastern Michigan University</em></p>              
+              <p>Christine Vo, The University of Texas – Austin: “On Activating Socially Situated Knowledge”<br>
+              <em>Comments: Gloria Li, University of Florida</em></p>              
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Landon Fama, McMaster University: “Health, Education and the Internet?”</p>
-              <p><em>Comments Provided By: Kelly McCoy, University of Detroit Mercy</em></p>
+              <p>Blake Trinske, Eastern Michigan University: “The Principles of Valuing Art:  Reasoning a Work of Art’s Value Using Principles Which Resonate with Audiences”<br>
+              <em>Comments: Domenic Dame, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>11:00 AM - 11:50 AM | Presentations</h5>
+        <li><h5>11:00 AM - 11:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Eric Garant, Eastern Michigan University: “While the Grass Grows: Adjudicating the Debate between Food Security and Food Sovereignty”</p>
-              <p><em>Comments Provided By: Ayah-Lea' Sawan, University of Detroit Mercy</em></p>              
+              <p>Gloria Li, University of Florida: “Climate Change, Essential Goods, and Rawlsian Justice”<br>
+              <em>Comments: Nolan Cook, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Blake Trinske, Eastern Michigan University: “Returning to Our Genuine Nature”</p>
-              <p><em>Comments Provided By: Katelyn Pyles, Eastern Michigan University</em></p>
+              <p>Vanessa Thorburn, Eastern Michigan University: “Truth and Poetry within and without our Control”<br>
+              <em>Comments: Lixing Maio, University of Pittsburgh</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>12:00 PM - 1:30 PM | Lunch</h5>
+        <li><h5>12:00 PM - 1:30 PM | LUNCH & KEYNOTE</h5>
           <ul class="schedule-list">
             <li><h5>Guild Room (330):</h5>
-              <p>Keynote speaker Dr. Shannon Hoff, Memorial University of Newfoundland: “Hegel on Tragedy and the Nature of Freedom”</p>
+              <p>Kirsten Jacobson, PhD, University of Maine: “Depicting Dying: How Photographs and Images Help Us Face Grief and Death”</p>
             </li>
           </ul>
         </li>
-        <li><h5>1:45 PM - 2:50 PM | Activities</h5>
+        <li><h5>1:45 PM - 2:50 PM | ACTIVITIES</h5>
           <ul class="schedule-list">
-            <li><h5>Alumni Room (342):</h5>
-              <p>The Value of Graduate School Panel: Come join professors and current graduate students as you explore what graduate school in philosophy can offer.</p>              
-            </li>
             <li><h5>Guild Hall (330):</h5>
-              <p>Extended Question and Answer Session: Join the keynote speaker after lunch to continue discussing the keynote presentation.</p>
+              <p>Extended Q & A: <em>Join the keynote speaker after lunch to continue discussing their presentation.</em></p>
+            </li>
+	    <li><h5>Alumni Room (342):</h5>
+              <p>The Value of Graduate School Panel: <em>Explore what graduate school in philosophy can offer.</em></p>              
             </li>
           </ul>
         </li>
-        <li><h5>3:00 PM - 3:50 PM | Presentations</h5>
+        <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Kellie Tinskey, Michigan State University: “The Aims of Political Justice: Problems and Possibilities of Distributive Justice, Democratic Equality, and Ethics of Care”</p>
-              <p><em>Comments Provided By: Greg Woodring, Eastern Michigan University</em></p>              
+              <p>Spencer Darling, Wayne State University: “Medical Speech Legal Not Moral”<br>
+              <em>Comments: Benjamin Cummins, Purdue University</em></p>             
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Timothy Petzold, Eastern Michigan University: “The Reasonable End of Ethics in Aristotle and Kant”</p>
-              <p><em>Comments Provided By: Issra Dourra, University of Detroit Mercy</em></p>
+              <p>Lauren Williams, Eastern Michigan University: “Ozturk's Disanalogies”<br>
+              <em>Comments: Christine Vo, University of Texas – Austin</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>4:00 PM - 4:50 PM | Presentations</h5>
+        <li><h5>4:00 PM - 4:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Natalia Anderson, Eastern Michigan University: “Is Discovery Necessarily Linguistic?”</p>
-              <p><em>Comments Provided By: Ahmad Chalhoub, University of Detroit Mercy</em></p>              
+              <p>Lauren Williams, Eastern Michigan University: “Ozturk's Disanalogies”Natalie Anderson, Eastern Michigan University: “A Bayesian Justification for Movement in Pedagogic Practices”<br>
+              <em>Comments: Christine Vo, University of Texas – AustinComments: Vanessa Thorburn, Eastern Michigan University</em></p>  
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Daniel Proske, University of Texas: “Everett on Sainsbury on Thinking About Fictional Things”</p>
-              <p><em>Comments Provided By: Sarah Bruckler, Eastern Michigan University</em></p>
+              <p>Bella Brown, Portland State University: “The Shapes of Solidarity Through Difference”<br>
+              <em>Comments: David King, Haverford College</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>5:00 PM - 5:50 PM | Presentations</h5>
+        <li><h5>5:00 PM - 5:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Robert Del Mauro, Seton Hall University: “Korematsu v. United States and Legal Realism”</p>
-              <p><em>Comments Provided By: Caleb Bragg, Eastern Michigan University</em></p>              
+              <p>Elijah Perry, Connecticut College: “Faith in Philosophy: St. Augustine's Doctrine of Divine Illumination”<br>
+              <em>Comments: Samantha Fritz, Youngstown State University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Kevin Smith, Indiana University Purdue University Fort Wayne: “Anselm’s Theory of Free Will and The Logical Problem of Moral Evil”</p>
-              <p><em>Comments Provided By: Hanaa Saleh, University of Detroit Mercy</em></p>
+              <p>Rama Wahbeh, Wayne State University: “Technology and the Modern Age”<br>
+              <em>Comments: Devin Brennan, Central Michigan University</em></p>
             </li>
           </ul>
         </li>
-        <br>
         <li><h5>Dinner on one’s own:</h5>
           <ul class="schedule-list">
             <li>
-              <p>Dinner is not provided; however, local students will be dining at Tower Inn. Everyone is welcome for a dinner of fellowship and philosophy!</p>
-              <p>Tower Inn is located at <b>701 W Cross St, Ypsilanti, MI 48197</b></p>            
+              <p>Dinner is not provided, but you are invited to join local students at Tower Inn for a dinner of fellowship and philosophy!</p>
             </li>
           </ul>
         </li>
@@ -121,97 +129,95 @@ permalink: /schedule/
     </div>
     <hr>
     <div class="day-2">
-      <h4 class="schedule-header">Sunday, March 4th, 2018</h4>
+      <h4 class="schedule-header">Sunday, March 10th, 2019</h4>
       <ul class="schedule-list">
-        <li><h5>8:30 AM - 9:00 AM | Welcome</h5>
+        <li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p><em>Check-in and Welcome Speech</em></p>              
+              <p>Check-in & Breakfast: <em>Join Dr. Koolage for a brief welcome message and breakfast!</em></p>              
             </li>
           </ul>
         </li>
-        <li><h5>9:00 AM - 9:50 AM | Presentations</h5>
+        <li><h5>9:00 AM - 9:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Spencer Upton, Slippery Rock University: “Understanding Qualia as Process”</p>
-              <p><em>Comments Provided By: Samuel Curran, Eastern Michigan University</em></p>
+              <p>Cameron Angliss, Connecticut College: “Cosmological Analyses of God and Time”<br>
+              <em>Comments: Leah Higgins, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Nicholas Paradise, Florida Gulf Coast University: “A League of Their Own: A Feminist Interpretation of Women's Sport in the U.S.”</p>
-              <p><em>Comments Provided By: Michael Neal, Eastern Michigan University</em></p>
+              <p>David DeMatteo, Reed College: “New Imitations, Old Beginnings: Machiavelli's Teaching”<br>
+              <em>Comments: Spencer Darling, Wayne State University</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>10:00 AM - 10:50 AM | Presentations</h5>
+        <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Lauren Williams, Eastern Michigan University: “The Ethical Order of Antigone”</p>
-              <p><em>Comments Provided By: Kyle Cornell, Drake University</em></p>              
+              <p>Lixing Maio, University of Pittsburgh: “Free Will as Self-Control”<br>
+              <em>Comments: Elijah Perry, Connecticut College</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Logan Cross, Michigan State University: “A Matter of Freedom: A Defense of Sartre's Anthropological Marxism”</p>
-              <p><em>Comments Provided By: Kishore Chundi, Yale University</em></p>
+              <p>Samantha Fritz, Youngstown State University: “Political Obligation and Lockean Contract Theory”<br>
+              <em>Comments: Rachel Jenkins, Grand Valley State University</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>11:00 AM - 11:50 AM | Presentations</h5>
+        <li><h5>11:00 AM - 11:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Kishore Chundi, Yale University: “The Problem of Time in Berkelian Idealism”</p>
-              <p><em>Comments Provided By: Melanie Zens, University of Wisconsin-Eau Claire</em></p>              
+              <p>Finn Wilson, D’Youville College: “Moral Responsibility and the Swerve”<br>
+              <em>Comments: Ethan Smith, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Joseph Longo, Eastern Michigan University: “Knowledge as Intuition: An Existential View of Epistemology”</p>
-              <p><em>Comments Provided By: Vanessa Thorburn, Eastern Michigan University</em></p>
+              <p><br>
+              <em></em></p>
             </li>
           </ul>
         </li>
-        <li><h5>12:00 PM - 1:00 PM | Lunch</h5>
+        <li><h5>12:00 PM - 1:00 PM | LUNCH</h5>
           <ul class="schedule-list">
             <li><h5>Guild Room (330):</h5>
-              <p>Lunch</p>
+              <p>Lunch: <em>Join presenters, commenters, and guests for lunch.</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>1:00 PM - 1:50 PM | Presentations</h5>
+        <li><h5>1:00 PM - 1:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Kyle Cornell, Drake University: “Regarding Brute Luck and Option Luck”</p>
-              <p><em>Comments Provided By: Landon Fama, McMaster University</em></p>             
+              <p>Aarushi Mohan, Haverford College: “Watching the Dictionary Defining Itself: Understanding the Social Nature of Language-Games in Wittgenstein's Philosophical Investigations.”<br>
+              <em>Comments: David DeMatteo, Reed College</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Katelyn Pyles, Eastern Michigan University: “Confrontations with Death: A Daoist Approach to Mortality According to the Inner Chapters of the Zhuangzi”</p>
-              <p><em>Comments Provided By: Avinash Vivekanandan, Eastern Michigan University</em></p>             
+              <p>See other rooms</p>
             </li>
           </ul>
         </li>
-        <li><h5>2:00 PM - 2:50 PM | Presentations</h5>
+        <li><h5>2:00 PM - 2:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Christine Kovacs, Grand Valley State University: “An Unexpected Hobbesian Defense of the Black Lives Matter Movement”</p>
-              <p><em>Comments Provided By: Kellie Tinskey, Michigan State University</em></p>              
+              <p>Devin Brennan, Central Michigan University: “Error Theory and Intrinsic Value”<br>
+              <em>Comments: Aarushi Mohan, Haverford College</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Alexander Sell, Florida Gulf Coast University: “A Stranger to Oneself: Ricoeurian Narrative Identity in Camus' <em>The Stranger</em>”</p>
-              <p><em>Comments Provided By: Logan Cross, Michigan State University</em></p>
+              <p>See other rooms</p>
             </li>
           </ul>
         </li>
-        <li><h5>3:00 PM - 3:50 PM | Presentations</h5>
+        <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Melanie Zens, University of Wisconsin-Eau Claire: “Free Willy isn't Free and Neither are You”</p>
-              <p><em>Comments Provided By: Kevin Smith, Indiana University Purdue University Fort Wayne</em></p>              
+              <p>David King, Haverford College: “Humility's Inner Dimension: A Search for Intrinsic Value”<br>
+              <em>Comments: Sarah Minnich, Saint Xavier University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>See Tower Room (348)</p>
+              <p>See other rooms</p>
             </li>
           </ul>
         </li>
-        <li><h5>4:00 PM - 4:50 PM | Closing</h5>
+        <li><h5>4:00 PM - 4:50 PM | CLOSING CEREMONY</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Closing awards</p>              
+              <p>Closing Ceremony: <em>Join the UCiP Team as we thank you for your participation and announce the winners of our Spirit of the Conference Award!</em></p>              
             </li>
           </ul>
         </li>
