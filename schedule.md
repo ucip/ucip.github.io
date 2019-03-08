@@ -98,7 +98,7 @@ permalink: /schedule/
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
               <p>Natalie Anderson, Eastern Michigan University: “A Bayesian Justification for Movement in Pedagogic Practices”<br>
-              <em>Comments: Christine Vo, University of Texas – AustinComments: Vanessa Thorburn, Eastern Michigan University</em></p>  
+              <em>Comments: Vanessa Thorburn, Eastern Michigan University</em></p>  
             </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Bella Brown, Portland State University: “The Shapes of Solidarity Through Difference”<br>
