@@ -61,7 +61,7 @@ permalink: /schedule/
             </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Vanessa Thorburn, Eastern Michigan University: “Truth and Poetry within and without our Control”<br>
-              <em>Comments: Lixing Maio, University of Pittsburgh</em></p>
+              <em>Comments: Lixing Miao, University of Pittsburgh</em></p>
             </li>
           </ul>
         </li>
@@ -97,7 +97,7 @@ permalink: /schedule/
         <li><h5>4:00 PM - 4:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Lauren Williams, Eastern Michigan University: “Ozturk's Disanalogies”Natalie Anderson, Eastern Michigan University: “A Bayesian Justification for Movement in Pedagogic Practices”<br>
+              <p>Natalie Anderson, Eastern Michigan University: “A Bayesian Justification for Movement in Pedagogic Practices”<br>
               <em>Comments: Christine Vo, University of Texas – AustinComments: Vanessa Thorburn, Eastern Michigan University</em></p>  
             </li>
             <li><h5>Alumni Room (342):</h5>
@@ -153,7 +153,7 @@ permalink: /schedule/
         <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Lixing Maio, University of Pittsburgh: “Free Will as Self-Control”<br>
+              <p>Lixing Miao, University of Pittsburgh: “Free Will as Self-Control”<br>
               <em>Comments: Elijah Perry, Connecticut College</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
