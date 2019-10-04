@@ -22,7 +22,7 @@ for its conference to be held at EMU on Saturday and Sunday, March 7th and 8th, 
     </div>
     <h3>Additional Information</h3>
     <h4>Keynote Speaker</h4>
-    <p class="text-justify"><a href="https://www.shannonspaulding.com">Dr. Shannon Spalding</a> from Oklahoma State University.</p>
+    <p class="text-justify"><a href="https://www.shannonspaulding.com">Dr. Shannon Spaulding</a> from Oklahoma State University.</p>
     <h4>Faculty Mentors</h4>
     <p class="text-justify">We have enjoyed having faculty attend in a purely support role.  We strongly encourage students to bring faculty mentors to the conference.  The dialog among professors, discussion of pedagogy, and expansion of mentoring opportunities for students, are among the desirable benefits of this conference. Additionally, faculty have played an important role in the success of the conference.</p>
     <h4>Publication Opportunity</h4>
