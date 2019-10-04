@@ -7,7 +7,7 @@ permalink: /cfp/
 
 <div class="container">
   <div class="col-md-8 col-md-offset-2 cfp-page">
-    <h3 class="home-h3">Submission Deadline: January 10, 2019</h3>
+    <h3 class="home-h3">Submission Deadline: January 9, 2020</h3>
     <!--<p class="text-justify">The 2018 UCiP has concluded. Next year's Call for Papers will be announced in early November, 2018. Check back then to submit your paper!</p>
     <p class="text-justify">In the meantime, you can <a href="{{ site.baseurl }}/schedule/">check out the 2018 UCiP (concluded) Schedule</a>, <a href="{{ site.baseurl }}/history/">look through past programs, notes, and keynote speakers,</a> or <a href="{{ site.baseurl }}/gallery/">see what's happened at past conferences</a> to get a feel for how UCiP operates.</p>-->
     <p class="text-justify">The Eastern Michigan University Undergraduate Conference in Philosophy is now accepting papers
