@@ -10,6 +10,12 @@ permalink: /schedule/
     <h3 class="home-h3">We are currently working on our 2020 UCiP Schedule!</h3>
     <p><small><b>Note:</b> Please check back at the end of February.</small></p>
 	  <p> </p>
+	  <p> </p>
+	  <p> </p>
+	  <p> </p>
+	  <p> </p>
+	  <p> </p>
+	  <p> </p>
     <div>
       <!-- <h4 class="schedule-header">Friday, March 8th, 2019</h4>
       <ul class="schedule-list">
