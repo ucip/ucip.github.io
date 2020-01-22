@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "UCiP Schedule"
 header-img: "img/header.jpg"
 permalink: /schedule/
