@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: "UCiP Schedule"
 header-img: "img/header.jpg"
 permalink: /schedule/
@@ -222,6 +222,6 @@ permalink: /schedule/
         </li>
       </ul>
     </div>
-  </div>
+  </div> -->
   {% include box.html %}
 </div>
