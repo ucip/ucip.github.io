@@ -7,10 +7,10 @@ permalink: /schedule/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12">
-    <h3 class="home-h3">Winter 2019 EMU UCiP (Concluded)</h3>
+    <h3 class="home-h3">We are currently working on our 2020 UCiP Schedule! Please check back at the end of February.</h3>
     <!--<p><small><b>Note:</b> Papers selected for presentation will be announced by the end of January. The 2018 UCiP Schedule will be available shortly thereafter.</small></p>-->
     <div>
-      <h4 class="schedule-header">Friday, March 8th, 2019</h4>
+      <!-- <h4 class="schedule-header">Friday, March 8th, 2019</h4>
       <ul class="schedule-list">
         <li><h5>7:00 PM - 9:30 PM | WELCOME EVENT</h5>
           <ul class="schedule-list">
