@@ -124,9 +124,9 @@ permalink: /schedule/
             </li>
           </ul>
         </li>
-      </ul>
+      </ul> -->
     </div>
-    <hr>
+    <!-- <hr>
     <div class="day-2">
       <h4 class="schedule-header">Sunday, March 10th, 2019</h4>
       <ul class="schedule-list">
@@ -220,6 +220,6 @@ permalink: /schedule/
             </li>
           </ul>
         </li>
-      </ul>
-    </div> -->
+      </ul> -->
+    </div>
 </div>
