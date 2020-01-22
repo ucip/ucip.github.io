@@ -68,6 +68,7 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Journals</h3>
         <ul class="post-list">
+	  <li class="text-small"><a href="https://commons.emich.edu/ac/vol7/iss1/">Acta Cogitata: Issue 7, November 2019</a></li>
           <li class="text-small"><a href="https://commons.emich.edu/ac/vol6/iss1/">Acta Cogitata: Issue 6, January 2019</a></li>
           <li class="text-small"><a href="https://commons.emich.edu/ac/vol5/iss1/">Acta Cogitata: Issue 5, October 2017</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2016-journal.pdf">Acta Cogitata: Issue 4, October 2016</a></li>
