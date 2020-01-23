@@ -9,8 +9,8 @@ permalink: /schedule/
   <div class="col-sm-9 col-xs-12">
     <h3 class="home-h3">We are currently working on our 2020 UCiP Schedule!</h3>
       <p><small>Please check back at the end of February.</small></p>
-    <div>
-      <!-- <h4 class="schedule-header">Friday, March 8th, 2019</h4>
+    <!-- <div>
+      <h4 class="schedule-header">Friday, March 8th, 2019</h4>
       <ul class="schedule-list">
         <li><h5>7:00 PM - 9:30 PM | WELCOME EVENT</h5>
           <ul class="schedule-list">
@@ -125,8 +125,8 @@ permalink: /schedule/
             </li>
           </ul>
         </li>
-      </ul> -->
-    </div>
+      </ul>
+    </div>-->
     <!-- <hr>
     <div class="day-2">
       <h4 class="schedule-header">Sunday, March 10th, 2019</h4>
@@ -221,8 +221,8 @@ permalink: /schedule/
             </li>
           </ul>
         </li>
-      </ul> -->
-    </div>
+      </ul>
+    </div>-->
   </div>
   {% include box.html %}
 </div>
