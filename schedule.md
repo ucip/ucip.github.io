@@ -122,51 +122,34 @@ permalink: /schedule/
           </ul>
         </li>
       </ul>
-    </div>-->
-    <!-- <hr>
+    </div>
+    <hr>
     <div class="day-2">
-      <h4 class="schedule-header">Sunday, March 10th, 2019</h4>
+      <h4 class="schedule-header">Sunday, March 8th, 2020</h4>
       <ul class="schedule-list">
-        <li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
+        <li><h5>9:00 AM - 9:50 AM | WELCOME</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Check-in & Breakfast: <em>Join Dr. Koolage for a brief welcome message and breakfast!</em></p>              
-            </li>
-          </ul>
-        </li>
-        <li><h5>9:00 AM - 9:50 AM | PRESENTATIONS</h5>
-          <ul class="schedule-list">
-            <li><h5>Tower Room (348):</h5>
-              <p>Cameron Angliss, Connecticut College: “Cosmological Analyses of God and Time”<br>
-              <em>Comments: Leah Higgins, Eastern Michigan University</em></p>
-            </li>
-            <li><h5>Alumni Room (342):</h5>
-              <p>David DeMatteo, Reed College: “New Imitations, Old Beginnings: Machiavelli's Teaching”<br>
-              <em>Comments: Spencer Darling, Wayne State University</em></p>
+              <p>Check-in & Breakfast: <em>Join the UCiP team and conference participants for breakfast and philosophic discussion.</em></p>              
             </li>
           </ul>
         </li>
         <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Lixing Miao, University of Pittsburgh: “Free Will as Self-Control”<br>
-              <em>Comments: Elijah Perry, Connecticut College</em></p>
+              <p>Brynn Ritchey, Eastern Michigan University: “Optimism in the Sciences: A New Look at Old Practices”<br>
+              <em>Comments: Marri Visscher, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Samantha Fritz, Youngstown State University: “Political Obligation and Lockean Contract Theory”<br>
-              <em>Comments: Rachel Jenkins, Grand Valley State University</em></p>
+              <p>Tommy Sanfilippo, Oakland University: “Alphas and Betas: An Exploration of Moral Membership Within the False Dichotomy of Humans and Non-humans”<br>
+              <em>Comments: Klayton Silverpen, Central Michigan University</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>11:00 AM - 11:50 AM | PRESENTATIONS</h5>
+        <li><h5>11:00 AM - 11:50 AM | MINORITIES AND PHILOSOPHY</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Finn Wilson, D’Youville College: “Moral Responsibility and the Swerve”<br>
-              <em>Comments: Ethan Smith, Eastern Michigan University</em></p>
-            </li>
-            <li><h5>Alumni Room (342):</h5>
-              <p><br>
-              <em></em></p>
+              <p>Learn about Minorities and Philosophy (MAP), which works to remove barriers to participation in philosophy for members of marginalized groups.</p>
             </li>
           </ul>
         </li>
@@ -180,33 +163,36 @@ permalink: /schedule/
         <li><h5>1:00 PM - 1:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Aarushi Mohan, Haverford College: “Watching the Dictionary Defining Itself: Understanding the Social Nature of Language-Games in Wittgenstein's Philosophical Investigations.”<br>
-              <em>Comments: David DeMatteo, Reed College</em></p>
+              <p>Karina Ortiz Villa, Cal Poly Pomona: “The Third Space Existence: On the Oppression of Men”<br>
+              <em>Comments: Jenna Botti, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>See other rooms</p>
+              <p>Matthew Kern, Kent State University: “On Fichte, Schelling, and Hegel: A Naturalism to Defeat Nihilism”<br>
+              <em>Comments: Zachary Tobias, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
         <li><h5>2:00 PM - 2:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Devin Brennan, Central Michigan University: “Error Theory and Intrinsic Value”<br>
-              <em>Comments: Aarushi Mohan, Haverford College</em></p>
+              <p>Ethan Smith, Eastern Michigan University: “Pouring from an Empty Cup: Balancing Human Rights with Fundamental Obligations to the Extremely Poor”<br>
+              <em>Comments: Oby Ugwuegbu, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>See other rooms</p>
+              <p>Murphy Cavanaugh, Loyola University: “The Myth of the Class Division – The Philosophy and Logic Behind Plato’s Argument for Class Division in the Republic”<br>
+              <em>Comments: Ben Schwabe, Michigan State University</em></p>
             </li>
           </ul>
         </li>
         <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>David King, Haverford College: “Humility's Inner Dimension: A Search for Intrinsic Value”<br>
-              <em>Comments: Sarah Minnich, Saint Xavier University</em></p>
+              <p>Abhi Ruparelia, University of Richmond: “Virtue, Perception, and Silencing”<br>
+              <em>Comments: Karina Ortiz Villa, Cal Poly Pomona</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>See other rooms</p>
+              <p>Marri Visscher, Eastern Michigan University<br>
+              <em>Comments: Natalie Anderson, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
@@ -218,7 +204,7 @@ permalink: /schedule/
           </ul>
         </li>
       </ul>
-    </div>-->
-  </div>
+    </div>
+  <!--/div>
   {% include box.html %}
-</div>
+</div-->
