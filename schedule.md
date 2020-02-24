@@ -206,5 +206,5 @@ permalink: /schedule/
       </ul>
     </div>
    </div>
-  {% include box.html %}
+  <!--{% include box.html %}-->
 </div>
