@@ -149,7 +149,7 @@ permalink: /schedule/
         <li><h5>11:00 AM - 11:50 AM | MINORITIES AND PHILOSOPHY</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Learn about Minorities and Philosophy (MAP), which works to remove barriers to participation in philosophy for members of marginalized groups.</p>
+              <p>Learn about Minorities and Philosophy (MAP), an organization which works to remove barriers to participation in philosophy for members of marginalized groups.</p>
             </li>
           </ul>
         </li>
@@ -207,4 +207,4 @@ permalink: /schedule/
     </div>
   <!--/div>
   {% include box.html %}
-</div-->
+</div>
