@@ -13,9 +13,9 @@ permalink: /advice/speakers/
     <p class="text-justify">So, you have been invited to give a talk at our Undergraduate Conference in Philosophy. In all likelihood, you have given some presentations before. A formal talk is not unlike the informal ones you have given in class; the main differences will be the setting is a bit grander, you will receive formal comments, and that questions from the audience will be less structured. In what follows, I offer some suggestions on how to prepare and deliver a formal talk (noting that these suggestions are tailored to our conference in particular).</p>
     <h3>Basics</h3>
     <p class="text-justify">Congratulations on the strength of your paper! Your creative work has been selected from a fairly large pool of other papers on the basis of its contribution to philosophy as a living endeavor. Giving papers is an important part of our discipline, and you have taken your first important step into the big game.</p>
-    <div class="col-sm-6 img-div-left">
+    <!--<div class="col-sm-6 img-div-left">
       <img class="img-responsive img-rounded hidden-print" src="{{ site.baseurl }}/img/img_3.jpg">
-    </div>
+    </div>-->
     <p class="text-justify">Your job as a presenter is to convey the central ideas and argument(s) of your paper to the audience.
 Your first step in preparing your talk is to consider the fact that the audience at our conference, while trained in philosophy, has no expertise in the area of your work; unlike a presentation for one of your classes, your audience at the conference is not likely to have read the works you’re drawing from, or even have attended basic lectures on the topic at hand. As a result, you will have to spend a bit more time on the basics, and a little less time on your more fine-grained points. You will likely have to cut most “asides” that appear in your paper from your talk; these are the sorts of things that may well come up during the Q&A.</p>
     <p class="text-justify">You can think of your role as one of teacher, as well as philosopher. What are the basic ideas your
@@ -30,9 +30,9 @@ speakers:
       <li>while all speakers are nervous, a quick run through with friendly faces (even if it is just your own in the mirror) will help get the lead out of your speaking voice.</li>
     </ol>
     </p>
-    <div class="col-sm-6 img-div-right">
+    <!--<div class="col-sm-6 img-div-right">
       <img class="img-responsive img-rounded hidden-print" src="{{ site.baseurl }}/img/img_4.jpg">
-    </div>
+    </div>-->
     <p class="text-justify">Third, it is a simple fact that a speaker always feel more nervous than they appear. These nerves are
 present in even the greatest public speakers; it’s what you do with the feeling that is some importance. You should not focus on this feeling; you look fine to everyone else, believe me. Further, everyone knows that it is perfectly acceptable for a speaker to be nervous; they don’t care that you are, and neither should you. If you can focus on your very interesting ideas during your talk, rather than your feeling of nervousness, you will be better situated to digress where necessary and rally when needed. Just do your best to try and ignore your feeling of nervousness &mdash; it is <em><b>completely normal</b></em>, and the audience is totally cool with it.</p>
     <p class="text-justify">Fourth, you will receive formal comments on your paper. This is an odd experience the first time (and
