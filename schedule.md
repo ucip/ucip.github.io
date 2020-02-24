@@ -7,12 +7,13 @@ permalink: /schedule/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12">
+   <!--<div>
     <h3 class="home-h3">We are currently working on our 2020 UCiP Schedule!</h3>
       <p><small>Please check back at the end of February.</small></p>
-    <!-- <div>
-      <h4 class="schedule-header">Friday, March 8th, 2019</h4>
+   </div>-->
+      <h4 class="schedule-header">Friday, March 6th, 2020</h4>
       <ul class="schedule-list">
-        <li><h5>7:00 PM - 9:30 PM | WELCOME EVENT</h5>
+        <li><h5>7:00 PM - 9:00 PM | WELCOME EVENT</h5>
           <ul class="schedule-list">
             <li><h5>Alumni Lounge (232):</h5>
               <p>Welcome Event: <em>Join the EMU Philosophy Club and your fellow participants for this laid-back meet & greet! Light refreshments are provided.</em></p>              
@@ -20,7 +21,7 @@ permalink: /schedule/
           </ul>
         </li>
       </ul>
-      <h4 class="schedule-header">Saturday, March 9th, 2019</h4>
+      <h4 class="schedule-header">Saturday, March 7th, 2020</h4>
       <ul class="schedule-list">
         <li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
           <ul class="schedule-list">
@@ -32,43 +33,43 @@ permalink: /schedule/
         <li><h5>9:00 AM - 9:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Peyton Harrington, Belmont University: “Why Virtue Cannot Be Taught: An Analysis of Plato's Meno and Anselm of Canterbury”<br>
-              <em>Comments: Blake Trinske, Eastern Michigan University</em></p>              
+              <p>Levi Durham, Western Michigan University: “Originalism: More Than Mere Foolishness or Fraud”<br>
+              <em>Comments: Dom Dame, Eastern Michigan University</em></p>              
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Benjamin Cummins, Purdue University: “The Lowering Amplitude of Hedonic Adaptation”<br>
-              <em>Comments: Joe Longo, Eastern Michigan University</em></p>
+              <p>Lindsey Merillat, John Tyler Community College: “Creating Destitution Through the Prevention of Famine: A Response to Both Singer and Timmerman”<br>
+              <em>Comments: Jacob Dunckel, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
         <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Christine Vo, The University of Texas – Austin: “On Activating Socially Situated Knowledge”<br>
-              <em>Comments: Gloria Li, University of Florida</em></p>              
+              <p>Emily Hunt, Belmont University: “Poetry as Meditation: Buddhism, Daosim, and Han Shan”<br>
+              <em>Comments: Matthew Wheeler, Eastern Michigan University</em></p>              
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Blake Trinske, Eastern Michigan University: “The Principles of Valuing Art:  Reasoning a Work of Art’s Value Using Principles Which Resonate with Audiences”<br>
-              <em>Comments: Domenic Dame, Eastern Michigan University</em></p>
+              <p>Thomas Moore, Furman University: “A Reappropriation of Hegel’s Political Theory: Is Sittlichkeit All It’s Cracked Up To Be?”<br>
+              <em>Comments: Abhi Rupharelia, University of Richmond</em></p>
             </li>
           </ul>
         </li>
         <li><h5>11:00 AM - 11:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Gloria Li, University of Florida: “Climate Change, Essential Goods, and Rawlsian Justice”<br>
-              <em>Comments: Nolan Cook, Eastern Michigan University</em></p>
+              <p>Jack Vavrinchik, Elmhurst College: “The Aesthetic Flow: Neural Correlates and Implications of a Goal-Directed Aesthetic Experience”<br>
+              <em>Comments: Alex Kochan, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Vanessa Thorburn, Eastern Michigan University: “Truth and Poetry within and without our Control”<br>
-              <em>Comments: Lixing Miao, University of Pittsburgh</em></p>
+              <p>Ben Schwabe, Michigan State University: “Hegel’s Two Faces of Patriotism: War and the Modern Liberal State”<br>
+              <em>Comments: Ali Qazwini, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
         <li><h5>12:00 PM - 1:30 PM | LUNCH & KEYNOTE</h5>
           <ul class="schedule-list">
             <li><h5>Guild Room (330):</h5>
-              <p>Kirsten Jacobson, PhD, University of Maine: “Depicting Dying: How Photographs and Images Help Us Face Grief and Death”</p>
+              <p>Shannon Spaulding, PhD, Oklahoma State University: “How We Understand Others”</p>
             </li>
           </ul>
         </li>
@@ -85,36 +86,31 @@ permalink: /schedule/
         <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Spencer Darling, Wayne State University: “Medical Speech Legal Not Moral”<br>
-              <em>Comments: Benjamin Cummins, Purdue University</em></p>             
+              <p>Natalie Anderson, Eastern Michigan University: “How the Self-Serving Attributional Bias Affects Student Learning”<br>
+              <em>Comments: Brynn Ritchey, Eastern Michigan University</em></p>             
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Lauren Williams, Eastern Michigan University: “Ozturk's Disanalogies”<br>
-              <em>Comments: Christine Vo, University of Texas – Austin</em></p>
+              <p>Klayton Silverpen, Central Michigan University: “Free Will and the Self: Why Defining the Self Can Help Answer the Question of Free Will”<br>
+              <em>Comments: Lindsey Merillat, John Tyler Community College</em></p>
             </li>
           </ul>
         </li>
         <li><h5>4:00 PM - 4:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Natalie Anderson, Eastern Michigan University: “A Bayesian Justification for Movement in Pedagogic Practices”<br>
-              <em>Comments: Vanessa Thorburn, Eastern Michigan University</em></p>  
+              <p>Jennifer Kuo, University of Illinois Urbana-Champaign: “Is There a Case for Permissivism?”<br>
+              <em>Comments: Levi Durham, Western Michigan University</em></p>  
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Bella Brown, Portland State University: “The Shapes of Solidarity Through Difference”<br>
-              <em>Comments: David King, Haverford College</em></p>
+              <p>Sam Nesbitt, Eastern Michigan University: “A Worldview Definition”<br>
+              <em>Comments: John Milkovich, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>5:00 PM - 5:50 PM | PRESENTATIONS</h5>
+        <li><h5>5:00 PM - 5:50 PM | PHILOSO-BUFFET</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Elijah Perry, Connecticut College: “Faith in Philosophy: St. Augustine's Doctrine of Divine Illumination”<br>
-              <em>Comments: Samantha Fritz, Youngstown State University</em></p>
-            </li>
-            <li><h5>Alumni Room (342):</h5>
-              <p>Rama Wahbeh, Wayne State University: “Technology and the Modern Age”<br>
-              <em>Comments: Devin Brennan, Central Michigan University</em></p>
+              <p>A series of philosphical lightning talks wherein faculty and graduate students of Eastern Michigan University share arguments that matter to them. Discussion to follow.</p>
             </li>
           </ul>
         </li>
