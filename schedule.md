@@ -112,7 +112,7 @@ permalink: /schedule/
         <li><h5>5:00 PM - 5:50 PM | PHILOSO-BUFFET</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>A series of philosphical lightning talks wherein faculty and graduate students of Eastern Michigan University share arguments that matter to them. Discussion to follow.</p>
+              <p>A series of philosophical lightning talks wherein faculty and graduate students of Eastern Michigan University share arguments that matter to them. Discussion to follow.</p>
             </li>
           </ul>
         </li>
@@ -132,7 +132,7 @@ permalink: /schedule/
         <li><h5>9:00 AM - 9:50 AM | WELCOME</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Check-in & Breakfast: <em>Join the UCiP team and conference participants for breakfast and philosophic discussion.</em></p>              
+              <p>Check-in & Breakfast: <em>Join the UCiP team, presenters, commenters, and guests for breakfast and philosophic discussion.</em></p>              
             </li>
           </ul>
         </li>
