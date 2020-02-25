@@ -7,16 +7,18 @@ permalink: /schedule/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12">
-   <!--<div>
-    <h3 class="home-h3">We are currently working on our 2020 UCiP Schedule!</h3>
-      <p><small>Please check back at the end of February.</small></p>
-   </div>-->
+    <div>
+      <!--<h3 class="home-h3">We are currently working on our 2020 UCiP Schedule!</h3>
+      <p><small>Please check back at the end of February.</small></p>-->
+      <h3 class="home-h3">2020 UCiP Schedule</h3>
+    </div>
+    <div>
       <h4 class="schedule-header">Friday, March 6th, 2020</h4>
       <ul class="schedule-list">
         <li><h5>7:00 PM - 9:00 PM | WELCOME EVENT</h5>
           <ul class="schedule-list">
             <li><h5>Alumni Lounge (232):</h5>
-              <p>Welcome Event: <em>Join the EMU Philosophy Club and your fellow participants for this laid-back meet & greet! Light refreshments are provided.</em></p>              
+              <p>Welcome Event: <em>Join the EMU Philosophy Club and your fellow participants for this laid-back meet & greet! Light refreshments are provided.</em></p>
             </li>
           </ul>
         </li>
@@ -204,7 +206,7 @@ permalink: /schedule/
           </ul>
         </li>
       </ul>
-    <!--</div>
-   </div>
+    </div>
+  </div>
   {% include box.html %}
 </div>
