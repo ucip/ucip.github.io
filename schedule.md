@@ -52,7 +52,7 @@ permalink: /schedule/
             </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Thomas Moore, Furman University: “A Reappropriation of Hegel’s Political Theory: Is Sittlichkeit All It’s Cracked Up To Be?”<br>
-              <em>Comments: Abhi Rupharelia, University of Richmond</em></p>
+              <em>Comments: Abhi Ruparelia, University of Richmond</em></p>
             </li>
           </ul>
         </li>
@@ -193,7 +193,7 @@ permalink: /schedule/
               <em>Comments: Karina Ortiz Villa, Cal Poly Pomona</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Marri Visscher, Eastern Michigan University<br>
+              <p>Marri Visscher, Eastern Michigan University: “What Makes an Oppressor?”<br>
               <em>Comments: Natalie Anderson, Eastern Michigan University</em></p>
             </li>
           </ul>
