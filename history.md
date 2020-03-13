@@ -11,7 +11,8 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Programs</h3>
         <ul class="post-list">
-          <li class="text-small"><a href="{{ site.baseurl }}/docs/2019-program.pdf">W 2019 Program</a></li>
+          <li class="text-small"><a href="{{ site.baseurl }}/docs/2020-program.pdf">W 2020 Program</a></li>
+	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2019-program.pdf">W 2019 Program</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2018-program.pdf">W 2018 Program</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2017-program.pdf">W 2017 Program</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2016-program.pdf">W 2016 Program</a></li>
@@ -27,6 +28,7 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Abstracts</h3>
         <ul class="post-list">
+	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2020-abstracts.pdf">W 2020 Abstracts</a></li>
 	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2019-abstracts.pdf">W 2019 Abstracts</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2018-abstracts.pdf">W 2018 Abstracts</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2017-abstracts.pdf">W 2017 Abstracts</a></li>
