@@ -55,6 +55,7 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Speakers</h3>
         <ul class="post-list">
+	  <li class="text-small">W 2020: <a href="https://www.shannonspaulding.com/">Dr. Shannon Spaulding</a>, Oklahoma State University</li>
 	  <li class="text-small">W 2019: <a href="https://umaine.edu/philosophy/people/kirsten-johnson/">Dr. Kirsten Jacobson</a>, University of Maine</li>
           <li class="text-small">W 2018: <a href="https://www.mun.ca/philosophy/faculty/hoff.php">Dr. Shannon Hoff</a>, Memorial University of Newfoundland</li>
           <li class="text-small">W 2017: <a href="http://www.marquette.edu/phil/faculty_tobin.shtml">Dr. Theresa W. Tobin</a>, Marquette University</li>
