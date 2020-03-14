@@ -8,6 +8,10 @@ permalink: /schedule/
 <div class="container">
   <div class="col-sm-9 col-xs-12">
     <div>
+      <div>
+      <h3 class="home-h3">The 2020 UCiP was a resounding success! Thank you to everyone who helped make it what it was.</h3>
+      <p><small>You can view the 2020 Schedule, along with the abstracts, <a href="{{ site.baseurl }}/history/">here</a>.</small></p>
+      </div>
       <!--<h3 class="home-h3">We are currently working on our 2020 UCiP Schedule!</h3>
       <p><small>Please check back at the end of February.</small></p>-->
       <!--<h3 class="home-h3">2020 UCiP Schedule</h3>
