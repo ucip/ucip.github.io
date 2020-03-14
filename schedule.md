@@ -206,11 +206,11 @@ permalink: /schedule/
           </ul>
         </li>
       </ul>
-    </div>-->
-    <div>
-      <h3 class="home-h3">The 2020 UCiP was a resounding success! Thank you to everyone who helped make it what it was.</h3>
-      <p><small>You can view the 2020 Schedule, along with the abstracts, <a href="{{ site.baseurl }}/history/">here.</a></small></p>
     </div>
+  </div>-->
+  <div>
+      <h3 class="home-h3">The 2020 UCiP was a resounding success! Thank you to everyone who helped make it what it was.</h3>
+      <p><small>You can view the 2020 Schedule, along with the abstracts, <a href="{{ site.baseurl }}/history/">here</a>.</small></p>
   </div>
   {% include box.html %}
 </div>
