@@ -7,7 +7,7 @@ permalink: /gallery/
 
 <div class="container">
   <div class="col-sm-12 hidden-print">
-    <h3 class="post-list-header">2019 UCiP Pictures</h3>
+    <h3 class="post-list-header">2020 UCiP Pictures</h3>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2020/2020-1.jpg"></div>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2020/2020-2.jpg"></div>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2020/2020-3.jpg"></div>
