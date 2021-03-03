@@ -108,7 +108,7 @@ permalink: /schedule/
         <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Room A:</h5>
-              <p>Yunglong Cao, Johns Hopkins University: “A Defense of the Second Analogy”<br>
+              <p>Yunlong Cao, Johns Hopkins University: “A Defense of the Second Analogy”<br>
               <em>Comments: Anna Milukas, University of Georgia</em></p>             
             </li>
             <li><h5>Room B:</h5>
