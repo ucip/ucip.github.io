@@ -8,16 +8,16 @@ permalink: /schedule/
 <div class="container">
   <div class="col-sm-9 col-xs-12">
     <div>
-      <!--<h3 class="home-h3">The 2020 UCiP was a resounding success! Thank you to everyone who helped make it what it was.</h3>
-      <p><small>You can view the 2020 Schedule, along with the abstracts, <a href="{{ site.baseurl }}/history/">here</a>.</small></p>-->
+      <h3 class="home-h3">The 2021 UCiP was a resounding success! Thank you to everyone who helped make it what it was.</h3>
+      <p><small>You can view the 2021 Schedule, along with the abstracts, <a href="{{ site.baseurl }}/history/">here</a>.</small></p>
       <!--<h3 class="home-h3">We are currently accepting submissions for our virtual 2021 UCiP!</h3>
       <p><small>You can view past schedules, along with the abstracts, <a href="{{ site.baseurl }}/history/">here</a>.</small></p>-->
       <!--<h3 class="home-h3">We are currently working on our 2020 UCiP Schedule!</h3>
       <p><small>Please check back at the end of February.</small></p>-->
-      <h3 class="home-h3">2021 UCiP Schedule</h3>
+      <!--<h3 class="home-h3">2021 UCiP Schedule</h3>-->
     </div>
-    <div>
-      <!--<h4 class="schedule-header">Friday, March 6th, 2020</h4>
+    <!--<div>
+      <h4 class="schedule-header">Friday, March 6th, 2020</h4>
       <ul class="schedule-list">
         <li><h5>7:00 PM - 9:00 PM | WELCOME EVENT</h5>
           <ul class="schedule-list">
@@ -26,16 +26,16 @@ permalink: /schedule/
             </li>
           </ul>
         </li>
-      </ul>-->
+      </ul>
       <h4 class="schedule-header">Saturday, March 13th, 2021</h4>
       <ul class="schedule-list">
-        <!--<li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
+        <li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
               <p>Check-in & Breakfast: <em>Join Dr. John Koolage for a brief welcome message and breakfast!</em></p>              
             </li>
           </ul>
-        </li>-->
+        </li>
         <li><h5>9:00 AM - 9:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Room A:</h5>
@@ -72,7 +72,7 @@ permalink: /schedule/
             </li>
           </ul>
         </li>
-        <!--<li><h5>12:00 PM - 1:30 PM | LUNCH & KEYNOTE</h5>
+        <li><h5>12:00 PM - 1:30 PM | LUNCH & KEYNOTE</h5>
           <ul class="schedule-list">
             <li><h5>Guild Room (330):</h5>
               <p>Shannon Spaulding, PhD, Oklahoma State University: “How We Understand Others”</p>
@@ -88,7 +88,7 @@ permalink: /schedule/
               <p>The Value of Graduate School Panel: <em>Explore what graduate school in philosophy can offer.</em></p>              
             </li>
           </ul>
-        </li>-->
+        </li>
 	<li><h5>12:00 PM - 1:00 PM | LUNCH BREAK</h5>
 	</li>
 	<li><h5>1:00 PM - 2:00 PM | KEYNOTE</h5>
@@ -141,13 +141,13 @@ permalink: /schedule/
             </li>
           </ul>
         </li>
-        <!--<li><h5>Dinner on one’s own:</h5>
+        <li><h5>Dinner on one’s own:</h5>
           <ul class="schedule-list">
             <li>
               <p>Dinner is not provided, but you are invited to join local students at Tower Inn for a dinner of fellowship and philosophy!</p>
             </li>
           </ul>
-        </li>-->
+        </li>
       </ul>
     </div>
     <hr>
@@ -190,12 +190,12 @@ permalink: /schedule/
             </li>
           </ul>
         </li>
-        <li><h5>12:00 PM - 1:00 PM | LUNCH BREAK</h5>
-          <!--<ul class="schedule-list">
+        <li><h5>12:00 PM - 1:00 PM | LUNCH</h5>
+          <ul class="schedule-list">
             <li><h5>Guild Room (330):</h5>
               <p>Lunch: <em>Join presenters, commenters, and guests for lunch.</em></p>
             </li>
-          </ul>-->
+          </ul>
         </li>
         <li><h5>1:00 PM - 1:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
@@ -233,15 +233,15 @@ permalink: /schedule/
             </li>
           </ul>
         </li>
-        <!--<li><h5>4:00 PM - 4:50 PM | CLOSING CEREMONY</h5>
+        <li><h5>4:00 PM - 4:50 PM | CLOSING CEREMONY</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
               <p>Closing Ceremony: <em>Join the UCiP Team as we thank you for your participation and announce the winners of our Spirit of the Conference Award!</em></p>              
             </li>
           </ul>
-        </li>-->
+        </li>
       </ul>
-    </div>
+    </div>-->
   </div>
   {% include box.html %}
 </div>
