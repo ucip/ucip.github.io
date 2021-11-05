@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "2021 Call for Papers"
+title: "2022 Call for Papers"
 header-img: "img/header.jpg"
 permalink: /cfp/
 ---
 
 <div class="container">
   <div class="col-md-8 col-md-offset-2 cfp-page">
-    <h3 class="home-h3">Submission Deadline: January 15, 2021</h3>
+    <h3 class="home-h3">Submission Deadline: January 6th, 2022</h3>
     <!--<p class="text-justify">The 2018 UCiP has concluded. Next year's Call for Papers will be announced in early November, 2018. Check back then to submit your paper!</p>
     <p class="text-justify">In the meantime, you can <a href="{{ site.baseurl }}/schedule/">check out the 2018 UCiP (concluded) Schedule</a>, <a href="{{ site.baseurl }}/history/">look through past programs, notes, and keynote speakers,</a> or <a href="{{ site.baseurl }}/gallery/">see what's happened at past conferences</a> to get a feel for how UCiP operates.</p>-->
     <p class="text-justify">The Eastern Michigan University Undergraduate Conference in Philosophy is now accepting papers
@@ -29,6 +29,6 @@ permalink: /cfp/
     <p class="text-justify">The top (3 to 5) papers submitted will also be published in the upcoming edition of our undergraduate philosophy journal, <a href="{{ site.baseurl }}/journal/">Acta Cogitata!</a></p>
     <h3>Questions?</h3>
     <p class="text-justify">Conference organizers can be reached by email at <a href="mailto:emuucip@gmail.com">emuucip@gmail.com</a>.</p>
-    <p class="text-justify"><b>Faculty Sponsors:</b> <a href="https://www.emich.edu/historyphilosophy/philosophy/faculty/jkoolage.php">Dr. W. John Koolage</a> and <a href="http://www.emich.edu/historyphilosophy/philosophy/faculty/mcmahon.php">Dr. Laura McMahon</a></p>
+    <p class="text-justify"><b>Faculty Sponsor:</b> <a href="https://www.emich.edu/historyphilosophy/philosophy/faculty/jkoolage.php">Dr. W. John Koolage</a></p>
   </div>
 </div>
