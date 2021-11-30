@@ -22,7 +22,7 @@ permalink: /cfp/
     </div>
     <h3>Additional Information</h3>
     <h4>Keynote Speaker</h4>
-    <p class="text-justify">To Be Determined</p>
+    <p class="text-justify">Dr. Jaime Ahlberg of University of Florida</p>
     <h4>Faculty Mentors</h4>
     <p class="text-justify">We have enjoyed having faculty attend in a purely support role.  We strongly encourage students to bring faculty mentors to the conference.  The dialog among professors, discussion of pedagogy, and expansion of mentoring opportunities for students, are among the desirable benefits of this conference. Additionally, faculty have played an important role in the success of the conference.</p>
     <h4>Publication Opportunity</h4>
