@@ -18,7 +18,7 @@ permalink: /cfp/
     <p class="text-justify">We will also be using a formal commenter system; so, even if your paper is not selected for presentation, you may be considered for such a role.  Please let us know, along with your paper submission, if you are willing to comment.  This also means that all selected papers will receive formal feedback at the conference.</p>
     <p class="text-justify"><b>Papers and abstracts should be submitted electronically. Click the button below to submit your paper!</b></p>
     <div class="text-center">
-      <a class="btn btn-primary cfp" href="https://forms.gle/vVfEKXU3oE2jBzVC7" target="_blank" rel="noopener noreferrer" role="button">Submit a Paper</a>
+      <a class="btn btn-primary cfp" href=https://docs.google.com/forms/d/e/1FAIpQLSfM2PYH4k-UmqpJqNxE_l2QXaTle4YCbTsztMU92Q5M1RGgNg/viewform?usp=share_link target="_blank" rel="noopener noreferrer" role="button">Submit a Paper</a>
     </div>
     <h3>Additional Information</h3>
     <h4>Keynote Speaker</h4>
