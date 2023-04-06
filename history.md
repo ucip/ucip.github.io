@@ -11,6 +11,8 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Programs</h3>
         <ul class="post-list">
+	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2023 Schedule.pdf">W 2023 Program</a></li>
+	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2022-program.pdf">W 2022 Program</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2021-program.pdf">W 2021 Program</a></li>
 	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2020-program.pdf">W 2020 Program</a></li>
 	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2019-program.pdf">W 2019 Program</a></li>
