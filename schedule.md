@@ -27,7 +27,7 @@ permalink: /schedule/
           </ul>
         </li>
       </ul>-->
-      <h4 class="schedule-header">Saturday, November 13th, 2023</h4>
+      <h4 class="schedule-header">Saturday, November 4th, 2023</h4>
       <ul class="schedule-list">
         <li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
           <ul class="schedule-list">
@@ -118,28 +118,35 @@ permalink: /schedule/
     </div>
     <hr>
     <div class="day-2">
-      <h4 class="schedule-header">Sunday, November 14th, 2023</h4>
+      <h4 class="schedule-header">Sunday, November 5th, 2023</h4>
       <ul class="schedule-list">
+        <li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
+          <ul class="schedule-list">
+            <li><h5>Tower Room (348):</h5>
+              <p>Check-in & Breakfast: <em>Join Dr. John Koolage for a brief welcome message and breakfast!</em></p>              
+            </li>
+          </ul>
+	      </li>
         <li><h5>9:00 AM - 9:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Quang Tran, Minerva Schools at KGI: “An Account for the Inalienability of the Right to Life: A Supplement to Amnesty International’s Argument”<!-- <br> -->
-              <!--<em>Comments: John Milkovich, Eastern Michigan University</em>--></p>
-            </li>
-            <li><h5>Alumni Room (342):</h5>
-              <p>Chloe Berger, Bryn Mawr College: “A Case for Creating Clearly Condemnatory Statues of Wrongdoers”<!-- <br> -->
-              <!--<em>Comments: Tristan Mitchell, Oregon State University</em>--></p>
-            </li>
-	  </ul>
-	</li>
-        <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
-          <ul class="schedule-list">
-            <li><h5>Tower Room (348):</h5>
-              <p>Anna Cheng, University of Richmond: “Psychopaths and Animals: Blame, Reciprocity, and Obligation”<!-- <br> -->
+              <p>Zyaire Hadrian Agee, University of Alabama at Birmingham: “The Plight of the Diverse Practitioner”<!-- <br> -->
               <!--<em>Comments: Klayton Silverpen, Central Michigan University</em>--></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Jay Nelson, University of Texas – Dallas: “The Comic Society”<!-- <br> -->
+              <p>Daniza Nono, Pacific University: “Artificial Intelligence Evolving to Have A Soul”<!-- <br> -->
+              <!--<em>Comments: Carson Johnston, University of Guelph</em>--></p>
+            </li>
+          </ul>
+        </li>
+        <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
+          <ul class="schedule-list">
+            <li><h5>Tower Room (348):</h5>
+              <p>Nicole Reid, Eastern Michigan University: “Hermeneutical Injustice and Special Education”<!-- <br> -->
+              <!--<em>Comments: Klayton Silverpen, Central Michigan University</em>--></p>
+            </li>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Levi Makula, Eastern Michigan University: “The Benefits of Embracing a Pluralistic Approach to Nature for Environmental Decision-Making<!-- <br> -->
               <!--<em>Comments: Carson Johnston, University of Guelph</em>--></p>
             </li>
           </ul>
@@ -147,11 +154,11 @@ permalink: /schedule/
         <li><h5>11:00 AM - 11:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Hailey Smith, Washington State University: “Palouse Prairie: Ethics Behind the Loss of an Ecosystem”<!-- <br> -->
+              <p>Ryan Baylon, Northeastern University: “How and When to Assist Wild Animals”<!-- <br> -->
               <!--<em>Comments: Dominic Colaluca, Wayne State University</em>--></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Julia Bienstock, Kalamazoo College: “The Gender Binary as a Philosophical Problem”<!-- <br> -->
+              <p>August Vitarbo, Worcester Polytechnic Institute: “More Than We Can Chew”<!-- <br> -->
               <!--<em>Comments: James Speaker, Buffalo State College – SUNY</em>--></p>
             </li>
           </ul>
@@ -166,11 +173,11 @@ permalink: /schedule/
         <li><h5>1:00 PM - 1:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Frank Hernandez, University of Texas – El Paso: “Wittgenstein on Reasonable Doubt and Calling Bullshit”<!-- <br> -->
+              <p>Bridget Boczar, Oakland University: “Making Sense of Mathematical Platonism: An Ancient Approach”<!-- <br> -->
               <!--<em>Comments: Mitchell Baty, Kalamazoo College</em>--></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Anna Milukas, University of Georgia: “On the Defense of Aristotle’s Treatment of Women”<!-- <br> -->
+              <p>Benjamin Jenkins, Grand Valley State University: “Enigmatic Goddesses and Eleatic Mortals: Investigating Parmenidean Oneness”<!-- <br> -->
               <!--<em>Comments: Zach Tobias, Eastern Michigan University</em>--></p>
             </li>
           </ul>
@@ -178,11 +185,11 @@ permalink: /schedule/
         <li><h5>2:00 PM - 2:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Maria Tran, Wayne State University: “Seen But Not Heard: Children’s Susceptibility to Epistemic Injustice”<!-- <br> -->
+              <p>Joana Diaz, DePaul University: “Sylvia Wynter’s “Demonic Grounds” as a Human Spiritual Beyond”<!-- <br> -->
               <!--<em>Comments: Jay Nelson, University of Texas – Dallas</em>--></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Arthur Lopes C. Cordeiro, Federal University of Minas Gerais: “The Unknowability of the Sensible World in the Socratic Dialogues”<!-- <br> -->
+              <p>Dylan Santella, Washington & Lee University: “On Permission”<!-- <br> -->
               <!--<em>Comments: Candice Wiesner, Eastern Michigan University</em>--></p>
             </li>
           </ul>
@@ -190,19 +197,19 @@ permalink: /schedule/
         <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Tristan Mitchell, Oregon State University: “Scientific Realism and Trust as a Remedy for Coronavirus Vaccine Skepticism”<!-- <br> -->
+              <p>Cameron Green, Ohio State University: “Desires: to Motivate or to Please?”<!-- <br> -->
               <!--<em>Comments: Jes Emery, Eastern Michigan University</em>--></p>
             </li>
-            <li><h5>Alumni Room (342):</h5>
-              <p>Marshall Scheider, Portland State University: “On the Deconstruction of Metaphysics: Heidegger’s Ontology of Objects”<!-- <br> -->
-              <!--<em>Comments: Patrick Jobst, Eastern Michigan University</em>--></p>
-            </li>
+            <!--<li><h5>Alumni Room (342):</h5>
+              <p>Marshall Scheider, Portland State University: “On the Deconstruction of Metaphysics: Heidegger’s Ontology of Objects”<br>
+              <em>Comments: Patrick Jobst, Eastern Michigan University</em></p>
+            </li>-->
           </ul>
         </li>
         <li><h5>4:00 PM - 4:50 PM | CLOSING CEREMONY</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Closing Ceremony: <em>Join the UCiP Team as we thank you for your participation and announce the winners of our Spirit of the Conference Award!</em></p>              
+              <p>Closing Ceremony: <em>Join the UCiP Team as we thank you for your participation!</em></p>              
             </li>
           </ul>
         </li>
