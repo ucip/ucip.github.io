@@ -11,11 +11,12 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Programs</h3>
         <ul class="post-list">
-	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2023 Schedule.pdf">W 2023 Program</a></li>
-	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2022-program.pdf">W 2022 Program</a></li>
+          <li class="text-small"><a href="{{ site.baseurl }}/docs/2023 (Fall) Schedule.pdf">F 2023 Program</a></li>
+	        <li class="text-small"><a href="{{ site.baseurl }}/docs/2023 Schedule.pdf">W 2023 Program</a></li>
+	        <li class="text-small"><a href="{{ site.baseurl }}/docs/2022-program.pdf">W 2022 Program</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2021-program.pdf">W 2021 Program</a></li>
-	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2020-program.pdf">W 2020 Program</a></li>
-	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2019-program.pdf">W 2019 Program</a></li>
+	        <li class="text-small"><a href="{{ site.baseurl }}/docs/2020-program.pdf">W 2020 Program</a></li>
+	        <li class="text-small"><a href="{{ site.baseurl }}/docs/2019-program.pdf">W 2019 Program</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2018-program.pdf">W 2018 Program</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2017-program.pdf">W 2017 Program</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2016-program.pdf">W 2016 Program</a></li>
@@ -31,9 +32,10 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Abstracts</h3>
         <ul class="post-list">
+          <li class="text-small"><a href="{{ site.baseurl }}/docs/2023 (Fall) Abstracts.pdf">W 2023 Abstracts</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2023 Abstract List.pdf">W 2023 Abstracts</a></li>
-	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2021-abstracts.pdf">W 2022 Abstracts</a></li>
-	  <li class="text-small"><a href="{{ site.baseurl }}/docs/2021-abstracts.pdf">W 2021 Abstracts</a></li>
+	        <li class="text-small"><a href="{{ site.baseurl }}/docs/2021-abstracts.pdf">W 2022 Abstracts</a></li>
+	        <li class="text-small"><a href="{{ site.baseurl }}/docs/2021-abstracts.pdf">W 2021 Abstracts</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2020-abstracts.pdf">W 2020 Abstracts</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2019-abstracts.pdf">W 2019 Abstracts</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2018-abstracts.pdf">W 2018 Abstracts</a></li>
@@ -62,7 +64,7 @@ permalink: /history/
         <h3 class="post-list-header">Past Speakers</h3>
         <ul class="post-list">
           <li class="text-small">W 2021: <a href="https://www.carolhay.org/">Dr. Carol Hay</a>, University of Massachusetts-Lowell</li>
-	  <li class="text-small">W 2020: <a href="https://www.shannonspaulding.com/">Dr. Shannon Spaulding</a>, Oklahoma State University</li>
+	        <li class="text-small">W 2020: <a href="https://www.shannonspaulding.com/">Dr. Shannon Spaulding</a>, Oklahoma State University</li>
           <li class="text-small">W 2019: <a href="https://umaine.edu/philosophy/people/kirsten-johnson/">Dr. Kirsten Jacobson</a>, University of Maine</li>
           <li class="text-small">W 2018: <a href="https://www.mun.ca/philosophy/faculty/hoff.php">Dr. Shannon Hoff</a>, Memorial University of Newfoundland</li>
           <li class="text-small">W 2017: <a href="http://www.marquette.edu/phil/faculty_tobin.shtml">Dr. Theresa W. Tobin</a>, Marquette University</li>
@@ -78,8 +80,8 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Journals</h3>
         <ul class="post-list">
-	  <li class="text-small"><a href="https://commons.emich.edu/ac/vol8/iss1/">Acta Cogitata: Issue 8, October 2020</a></li>
-	  <li class="text-small"><a href="https://commons.emich.edu/ac/vol7/iss1/">Acta Cogitata: Issue 7, November 2019</a></li>
+          <li class="text-small"><a href="https://commons.emich.edu/ac/vol8/iss1/">Acta Cogitata: Issue 8, October 2020</a></li>
+          <li class="text-small"><a href="https://commons.emich.edu/ac/vol7/iss1/">Acta Cogitata: Issue 7, November 2019</a></li>
           <li class="text-small"><a href="https://commons.emich.edu/ac/vol6/iss1/">Acta Cogitata: Issue 6, January 2019</a></li>
           <li class="text-small"><a href="https://commons.emich.edu/ac/vol5/iss1/">Acta Cogitata: Issue 5, October 2017</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2016-journal.pdf">Acta Cogitata: Issue 4, October 2016</a></li>
