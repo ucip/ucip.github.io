@@ -39,24 +39,24 @@ permalink: /schedule/
         <li><h5>9:00 AM - 9:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Kerrigan Miranda, Pacific University: “A Language Without Words”<!-- <br> -->
-              <!--<em>Comments: Chloe Berger, Bryn Mawr College</em>--></p>              
+              <p>Kerrigan Miranda, Pacific University: “A Language Without Words” <br>
+              <em>Comments: Daniel Obiagbaoso</em></p>              
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Joseph White, Georgia Southern University: “Moving Forward and Looking Back: Place and the Moral Significance of Historical Reckoning”<!-- <br> -->
-              <!--<em>Comments: Julia Bienstock, Kalamazoo College</em>--></p>
+              <p>Joseph White, Georgia Southern University: “Moving Forward and Looking Back: Place and the Moral Significance of Historical Reckoning”<br>
+              <em>Comments: Riley Benci</em></p>
             </li>
           </ul>
         </li>
         <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Yuan Fang, University of Michigan Ann Arbor: “The Zhuang-Topia<!-- <br> -->
-              <!--<em>Comments: Maria Tran, Wayne State University</em>--></p>              
+              <p>Yuan Fang, University of Michigan Ann Arbor: “The Zhuang-Topia<br>
+              <em>Comments: Brett Jensen</em></p>              
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Benjamin Campbell, The Ohio State University: “I'm Still There, Looking for You in that Forest: A Phenomenological Investigation into PTSD”<!-- <br> -->
-              <!--<em>Comments: Arthur Lopes C. Cordeiro, Federal University of Minas Gerais</em>--></p>
+              <p>Benjamin Campbell, The Ohio State University: “I'm Still There, Looking for You in that Forest: A Phenomenological Investigation into PTSD”<br>
+              <em>Comments: John Milkovich</em></p>
             </li>
           </ul>
         </li>
@@ -67,8 +67,8 @@ permalink: /schedule/
               <em>Comments: Hailey Smith, Washington State University</em></p>
             </li>-->
             <li><h5>Alumni Room (342):</h5>
-              <p>Allison Ambrose, Georgia Southern University: “St. Augustine Supports the 4th Dimension: Modernized Medieval Metaphysics”<!-- <br> -->
-              <!--<em>Comments: Frank Hernandez, University of Texas – El Paso</em>--></p>
+              <p>Allison Ambrose, Georgia Southern University: “St. Augustine Supports the 4th Dimension: Modernized Medieval Metaphysics”<br>
+              <em>Comments: Edgar Vasquez</em></p>
             </li>
           </ul>
         </li>
@@ -93,24 +93,24 @@ permalink: /schedule/
         <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Katherine Lam, UC Davis: “Forgiveness in Relationships and Community"<!-- <br> -->
-              <!--<em>Comments: Anna Milukas, University of Georgia</em>--></p>             
+              <p>Katherine Lam, UC Davis: “Forgiveness in Relationships and Community" <br>
+              <em>Comments: Priya Ghotane</em></p>             
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Tim Zhang, Hamilton College: “Mental State Ascription in Lack-of-Skill Knobe Effect”<!-- <br> -->
-              <!--<em>Comments: Anna Cheng, University of Richmond</em>--></p>
+              <p>Tim Zhang, Hamilton College: “Mental State Ascription in Lack-of-Skill Knobe Effect” <br>
+              <em>Comments: Benjamin Campbell</em></p>
             </li>
           </ul>
         </li>
         <li><h5>4:00 PM - 4:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Taybah Hashmi, Wayne State University: “Neuropsychological and Epistemic Justification for Inclusivity and Knowledge Production”<!-- <br> -->
-              <!--<em>Comments: Matthew Wheeler, Eastern Michigan University</em>--></p>  
+              <p>Taybah Hashmi, Wayne State University: “Neuropsychological and Epistemic Justification for Inclusivity and Knowledge Production”<br>
+              <em>Comments: Emmanuel Baranyk</em></p>  
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Oliver Niehaus, Oberlin College: “Defending Thomson’s violinist case against the Killing vs. Letting Die Objection"<!-- <br> -->
-              <!--<em>Comments: Yunlong Cao, Johns Hopkins University</em>--></p>
+              <p>Oliver Niehaus, Oberlin College: “Defending Thomson’s violinist case against the Killing vs. Letting Die Objection" <br>
+              <em>Comments: Cameron Green</em></p>
             </li>
           </ul>
         </li>
@@ -130,36 +130,36 @@ permalink: /schedule/
         <li><h5>9:00 AM - 9:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Zyaire Hadrian Agee, University of Alabama at Birmingham: “The Plight of the Diverse Practitioner”<!-- <br> -->
-              <!--<em>Comments: Klayton Silverpen, Central Michigan University</em>--></p>
+              <p>Zyaire Hadrian Agee, University of Alabama at Birmingham: “The Plight of the Diverse Practitioner”<br>
+              <em>Comments: Joana Diaz</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Daniza Nono, Pacific University: “Artificial Intelligence Evolving to Have A Soul”<!-- <br> -->
-              <!--<em>Comments: Carson Johnston, University of Guelph</em>--></p>
+              <p>Daniza Nono, Pacific University: “Artificial Intelligence Evolving to Have A Soul”<br>
+              <em>Comments: Dylan Wolfe</em></p>
             </li>
           </ul>
         </li>
         <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Nicole Reid, Eastern Michigan University: “Hermeneutical Injustice and Special Education”<!-- <br> -->
-              <!--<em>Comments: Klayton Silverpen, Central Michigan University</em>--></p>
+              <p>Nicole Reid, Eastern Michigan University: “Hermeneutical Injustice and Special Education” <br>
+              <em>Comments: Alayla Renberg</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Levi Makula, Eastern Michigan University: “The Benefits of Embracing a Pluralistic Approach to Nature for Environmental Decision-Making<!-- <br> -->
-              <!--<em>Comments: Carson Johnston, University of Guelph</em>--></p>
+              <p>Levi Makula, Eastern Michigan University: “The Benefits of Embracing a Pluralistic Approach to Nature for Environmental Decision-Making"<br>
+              <em>Comments: Annabel Sumerix</em></p>
             </li>
           </ul>
         </li>
         <li><h5>11:00 AM - 11:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Ryan Baylon, Northeastern University: “How and When to Assist Wild Animals”<!-- <br> -->
-              <!--<em>Comments: Dominic Colaluca, Wayne State University</em>--></p>
+              <p>Ryan Baylon, Northeastern University: “How and When to Assist Wild Animals”<br>
+              <em>Comments: Adam Dailyy</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>August Vitarbo, Worcester Polytechnic Institute: “More Than We Can Chew”<!-- <br> -->
-              <!--<em>Comments: James Speaker, Buffalo State College – SUNY</em>--></p>
+              <p>August Vitarbo, Worcester Polytechnic Institute: “More Than We Can Chew”<br>
+              <em>Comments: Oliver Niehaus</em></p>
             </li>
           </ul>
         </li>
@@ -173,32 +173,32 @@ permalink: /schedule/
         <li><h5>1:00 PM - 1:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Bridget Boczar, Oakland University: “Making Sense of Mathematical Platonism: An Ancient Approach”<!-- <br> -->
-              <!--<em>Comments: Mitchell Baty, Kalamazoo College</em>--></p>
+              <p>Bridget Boczar, Oakland University: “Making Sense of Mathematical Platonism: An Ancient Approach”<br>
+              <em>Comments: Ryan Baylon</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Benjamin Jenkins, Grand Valley State University: “Enigmatic Goddesses and Eleatic Mortals: Investigating Parmenidean Oneness”<!-- <br> -->
-              <!--<em>Comments: Zach Tobias, Eastern Michigan University</em>--></p>
+              <p>Benjamin Jenkins, Grand Valley State University: “Enigmatic Goddesses and Eleatic Mortals: Investigating Parmenidean Oneness”<br>
+              <em>Comments: Allison Ambrose</em></p>
             </li>
           </ul>
         </li>
         <li><h5>2:00 PM - 2:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Joana Diaz, DePaul University: “Sylvia Wynter’s “Demonic Grounds” as a Human Spiritual Beyond”<!-- <br> -->
-              <!--<em>Comments: Jay Nelson, University of Texas – Dallas</em>--></p>
+              <p>Joana Diaz, DePaul University: “Sylvia Wynter’s “Demonic Grounds” as a Human Spiritual Beyond” <br>
+              <em>Comments: Amy Gardner</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Dylan Santella, Washington & Lee University: “On Permission”<!-- <br> -->
-              <!--<em>Comments: Candice Wiesner, Eastern Michigan University</em>--></p>
+              <p>Dylan Santella, Washington & Lee University: “On Permission”<br>
+              <em>Comments: Niamh Quinnan</em></p>
             </li>
           </ul>
         </li>
         <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Cameron Green, Ohio State University: “Desires: to Motivate or to Please?”<!-- <br> -->
-              <!--<em>Comments: Jes Emery, Eastern Michigan University</em>--></p>
+              <p>Cameron Green, Ohio State University: “Desires: to Motivate or to Please?”<br>
+              <em>Comments: Nicole Reid</em></p>
             </li>
             <!--<li><h5>Alumni Room (342):</h5>
               <p>Marshall Scheider, Portland State University: “On the Deconstruction of Metaphysics: Heidegger’s Ontology of Objects”<br>
