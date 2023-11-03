@@ -114,6 +114,13 @@ permalink: /schedule/
             </li>
           </ul>
         </li>
+	<li><h5>5:00 PM - 5:50 PM | ACTIVITIES</h5>
+          <ul class="schedule-list">
+            <li><h5>Tower Room (348):</h5>
+              <p>The Value of Graduate School Panel: <em>Explore what graduate school in philosophy can offer.</em></p>
+            </li>
+          </ul>
+        </li>
       </ul>
     </div>
     <hr>
