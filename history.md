@@ -11,6 +11,7 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Programs</h3>
         <ul class="post-list">
+         <li class="text-small"><a href="{{ site.baseurl }}/docs/2024-ucip-schedule.pdf">F 2024 Program</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2023 (Fall) Schedule.pdf">F 2023 Program</a></li>
 	        <li class="text-small"><a href="{{ site.baseurl }}/docs/2023 Schedule.pdf">W 2023 Program</a></li>
 	        <li class="text-small"><a href="{{ site.baseurl }}/docs/2022-program.pdf">W 2022 Program</a></li>
@@ -32,6 +33,7 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Abstracts</h3>
         <ul class="post-list">
+          <li class="text-small"><a href="{{ site.baseurl }}/docs/2024-ucip-abstracts.pdf">F 2024 Abstracts</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2023 (Fall) Abstracts.pdf">F 2023 Abstracts</a></li>
           <li class="text-small"><a href="{{ site.baseurl }}/docs/2023 Abstract List.pdf">W 2023 Abstracts</a></li>
 	        <li class="text-small"><a href="{{ site.baseurl }}/docs/2021-abstracts.pdf">W 2022 Abstracts</a></li>

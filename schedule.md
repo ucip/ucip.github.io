@@ -7,16 +7,12 @@ permalink: /schedule/
 
 <div class="container">
   <div class="col-sm-9 col-xs-12">
-    <!--<div>
+    <div>
       <h3 class="home-h3">The 2024 UCiP was a resounding success! Thank you to everyone who helped make it what it was.</h3>
       <p><small>You can view the 2024 Schedule, along with the abstracts, <a href="{{ site.baseurl }}/history/">here</a>.</small></p>
-      <h3 class="home-h3">We are currently accepting submissions for our virtual 2024 UCiP!</h3>
-      <p><small>You can view past schedules, along with the abstracts, <a href="{{ site.baseurl }}/history/">here</a>.</small></p>-->
-      <!--<h3 class="home-h3">We are currently working on our 2020 UCiP Schedule!</h3>
-      <p><small>Please check back at the end of February.</small></p>
-      <h3 class="home-h3">2024 UCiP Schedule</h3>
-    </div>-->
-    <div>
+      <!--<h3 class="home-h3">2024 UCiP Schedule</h3>-->
+    </div>
+    <!--<div>
       <h4 class="schedule-header">Saturday, November 9th, 2024</h4>
       <ul class="schedule-list">
         <li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
@@ -74,10 +70,10 @@ permalink: /schedule/
             <li><h5>Guild Room (330):</h5>
               <p>Extended Q & A: <em>Join the keynote speaker after lunch to continue discussing their presentation.</em></p>
             </li>
-	          <!--<li>
+	          <li>
               <h5>Alumni Room (342):</h5>
               <p>The Value of Graduate School Panel: <em>Explore what graduate school in philosophy can offer.</em></p>              
-            </li>-->
+            </li>
           </ul>
         </li>
         <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
@@ -206,7 +202,7 @@ permalink: /schedule/
           </ul>
         </li>
       </ul>
-    </div>
+    </div>-->
   </div>
   {% include box.html %}
 </div>

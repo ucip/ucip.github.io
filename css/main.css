@@ -176,8 +176,8 @@ hr {
 }
 
 .cfp {
-  width: 10em;
-  margin-bottom: 1em;
+  width: 100%;
+  margin-bottom: .5em;
 }
 
 .phil-events {
