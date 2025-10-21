@@ -153,6 +153,7 @@ hr {
 .post-list {
   list-style-type: none;
   margin-left: -2.5em;
+  line-height: 1.6;
 }
 
 .post-list-header {
