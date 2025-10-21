@@ -63,8 +63,13 @@ permalink: /history/
   <div class="row">
     <div class="col-sm-6 col-xs-12">
       <div class="post-list-box">
-        <h3 class="post-list-header">Past Speakers</h3>
+        <h3 class="post-list-header">Past Keynote Speakers</h3>
         <ul class="post-list">
+          <li class="text-small">F 2025: <a href="https://philosophy.ua.edu/people/holly-kantin/">Holly Kantin</a>, The University of Alabama</li>
+          <li class="text-small">F 2024: <a href="https://philosophy.umd.edu/directory/hallie-liberto">Hallie Liberto</a>, University of Maryland</li>
+          <li class="text-small">W 2023: <a href="https://www.uab.edu/cas/philosophy/people/faculty/brynn-welch">Dr. Brynn Welch</a>, University of Alabama at Birmingham</li>
+          <li class="text-small">F 2023: <a href="https://www.newpaltz.edu/honors/facultyteaching.html">Dr. Madeleine Arseneault</a>, SUNY at New Paltz</li>
+          <li class="text-small">W 2022: <a href="https://humanities.ufl.edu/staff/jaime-ahlberg/">Dr. Jaime Ahlberg</a>, University of Florida</li>
           <li class="text-small">W 2021: <a href="https://www.carolhay.org/">Dr. Carol Hay</a>, University of Massachusetts-Lowell</li>
 	        <li class="text-small">W 2020: <a href="https://www.shannonspaulding.com/">Dr. Shannon Spaulding</a>, Oklahoma State University</li>
           <li class="text-small">W 2019: <a href="https://umaine.edu/philosophy/people/kirsten-johnson/">Dr. Kirsten Jacobson</a>, University of Maine</li>
