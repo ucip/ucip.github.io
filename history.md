@@ -87,6 +87,10 @@ permalink: /history/
       <div class="post-list-box">
         <h3 class="post-list-header">Past Journals</h3>
         <ul class="post-list">
+          <li class="text-small"><a href="https://commons.emich.edu/ac/vol12/iss1/">Acta Cogitata: Issue 12, October 2020</a></li>
+          <li class="text-small"><a href="https://commons.emich.edu/ac/vol11/iss1/">Acta Cogitata: Issue 11, October 2020</a></li>
+          <li class="text-small"><a href="https://commons.emich.edu/ac/vol10/iss1/">Acta Cogitata: Issue 10, October 2020</a></li>
+          <li class="text-small"><a href="https://commons.emich.edu/ac/vol9/iss1/">Acta Cogitata: Issue 9, October 2020</a></li>
           <li class="text-small"><a href="https://commons.emich.edu/ac/vol8/iss1/">Acta Cogitata: Issue 8, October 2020</a></li>
           <li class="text-small"><a href="https://commons.emich.edu/ac/vol7/iss1/">Acta Cogitata: Issue 7, November 2019</a></li>
           <li class="text-small"><a href="https://commons.emich.edu/ac/vol6/iss1/">Acta Cogitata: Issue 6, January 2019</a></li>
