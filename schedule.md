@@ -92,7 +92,10 @@ permalink: /schedule/
             <li><h5>Guild Room (330):</h5>
               <p>A2 Ethics Bowl Presenters:</p>
               <ul>
-                <li>To be announced</li>
+                <li>Samir Rao: "Man's Best Frenemy: Our moral duties around domestication"</li>
+                <li>Sakshi Sivakumar, Amy Yang, and Amelia Bai: "The Ethicality behind the Obligation of Assimilation"</li>
+                <li>Izzy Choi: "The Duty of Being"</li>
+                <li>Haochen Tian: "An Ethical Dilemma: The Conflict Inherent in For-Profit AI Companionship"</li>
               </ul>
             </li>
           </ul>
@@ -110,7 +113,10 @@ permalink: /schedule/
             <li><h5>Guild Room (330):</h5>
               <p>A2 Ethics Bowl Presenters:</p>
               <ul>
-                <li>To be announced</li>
+                <li>Ryanna RePass: "Morals or Manipulation?"</li>
+                <li>Nome Popp Berman: "Ethical CRISPR Development"</li>
+                <li>Hrudya Pingili: "The Question That Outlives the Answer: Humanity's Search for Meaning "</li>
+                <li>Alexandra Pryplesh: "“There is no doer”: Monique Wittig’s legacy within and beyond critique"</li>
               </ul>
             </li>
           </ul>
