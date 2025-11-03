@@ -8,101 +8,109 @@ permalink: /schedule/
 <div class="container">
   <div class="col-sm-9 col-xs-12">
     <div>
-      <h3 class="home-h3">The 2024 UCiP was a resounding success! Thank you to everyone who helped make it what it was.</h3>
-      <p><small>You can view the 2024 Schedule, along with the abstracts, <a href="{{ site.baseurl }}/history/">here</a>.</small></p>
-      <!--<h3 class="home-h3">2024 UCiP Schedule</h3>-->
+      <!--<h3 class="home-h3">The 2025 UCiP was a resounding success! Thank you to everyone who helped make it what it was.</h3>
+      <p><small>You can view the 2025 Schedule, along with the abstracts, <a href="{{ site.baseurl }}/history/">here</a>.</small></p>-->
+      <h3 class="home-h3">2025 UCiP Schedule</h3>
     </div>
-    <!--<div>
-      <h4 class="schedule-header">Saturday, November 9th, 2024</h4>
+    <div>
+      <h4 class="schedule-header">Saturday, November 8th, 2025</h4>
       <ul class="schedule-list">
-        <li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
+        <li><h5>8:00 AM - 8:50 AM | WELCOME</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Check-in & Breakfast: <em>Join Dr. John Koolage for a brief welcome message and breakfast!</em></p>              
+              <p>Join Dr. John Koolage for a brief welcome message and breakfast!</p>
             </li>
           </ul>
         </li>
         <li><h5>9:00 AM - 9:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Anna McConnell, Idaho State University: “The Interplay of Internalism and Externalism” <br>
-              <em>Comments: Nathan Thomas, Pepperdine University</em></p>              
+              <p>Everett McKay, University of Utah: “Where Emotions Become Ugly: Socioaestheticization and Aesthetic Pathologization”<br>
+              <em>Comments: Adriana Wynn, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Jade Hua, University of Florida: “Which Equality is More Just? An Investigation of Two Egalitarian Theories of Justice”<br>
-              <em>Comments: Eli Card, Eastern Michigan University</em></p>
+              <!--<p>Jade Hua, University of Florida: “Which Equality is More Just? An Investigation of Two Egalitarian Theories of Justice”<br>
+              <em>Comments: Eli Card, Eastern Michigan University</em></p>-->
+              <p>Join us in the Tower Room!</p>
             </li>
           </ul>
         </li>
         <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Nathan Thomas, Pepperdine University: “No Believers Know: A Case Against Gail Fine's Critique of the Two Worlds Theory in Plato's Meno”<br>
-              <em>Comments: Everett Peabody, Eastern Michigan University</em></p>              
+              <p>Fiona Hamilton, The University of Tennessee at Chattanooga: “Heraclitean Cosmos as a Container”<br>
+              <em>Comments: Priya Ghotane, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Jiayuan Zhang, University of Florida: “Shared Guidance”<br>
-              <em>Comments: Priya Ghotane, Eastern Michigan University</em></p>
+              <p>Heather Nakatsukasa, Linfield University: “The Historical Development of Capital: Transforming Society”<br>
+              <em>Comments: Peyton Baldwin, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
         <li><h5>11:00 AM - 11:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Megan Bonne, Duke University: “Can the biological concept of epigenetics affect our understanding of philosophical determinism and free will?”<br>
-              <em>Comments: Jonah Huskey-Wright, Eastern Michigan University</em></p>
+              <p>Lucia Jackson, Montana State University: "The Enforced Vulnerability and Ungrievability of Black and Trans Women in The United States Prison System"<br>
+              <em>Comments: Kalista Leggitt, University of Utah</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Evan Zicklin, Loyola Marymount University: “Choking Hegemonic Masculinity, and Perfectionism”<br>
-              <em>Comments: Marie Peterson, St. Mary’s University of San Antonio</em></p>
+              <p>Conrad McIntosh, Grand Valley State University: “Objective and Formal Reality: An Answer to the Gassendi Problem”<br>
+              <em>Comments: Ava Ryan-Young, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>12:00 PM - 1:30 PM | LUNCH & KEYNOTE</h5>
+        <li><h5>12:00 PM - 1:15 PM | LUNCH & KEYNOTE</h5>
           <ul class="schedule-list">
             <li><h5>Guild Room (330):</h5>
-              <p>Hallie Liberto, University of Maryland</p>
+              <p><a href="https://philosophy.ua.edu/people/holly-kantin/" target="_blank">Holly Kantin, The University of Alabama</a>: ""Not a Choice!” “Born This Way!” Does it Matter?: Clarifying the Role and Relevance of Etiological Claims in the Context of Gay Advocacy"</p>
             </li>
           </ul>
         </li>
-        <li><h5>1:30 PM - 2:30 PM | ACTIVITIES</h5>
+        <li><h5>1:30 PM - 2:20 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
-            <li><h5>Guild Room (330):</h5>
-              <p>Extended Q & A: <em>Join the keynote speaker after lunch to continue discussing their presentation.</em></p>
+            <li><h5>Tower Room (348):</h5>
+              <p>Annika Prange, Linfield University: "She is Bound: A Peek at the Undressed Woman"<br>
+              <em>Comments: Sage Henke, Linfield University</em></p>
             </li>
 	          <li>
               <h5>Alumni Room (342):</h5>
-              <p>The Value of Graduate School Panel: <em>Explore what graduate school in philosophy can offer.</em></p>              
+              <p>Shyanna Mayes, Linfield University: "Feminism of Women's Projection onto Male Characters in Media"<br>
+              <em>Comments: Fiona Hamilton, The University of Tennessee at Chattanooga</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
+        <li><h5>2:30 PM - 3:20 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Joseph Funk, Idaho State University: “Deontic Caring” <br>
-              <em>Comments: Eleanor Brannen, Georgia College and State University</em></p>             
+              <p>Priya Ghotane, Eastern Michigan University: "Indoctrination, Religious Education, and the Case for Epistemic Diversity in Curriculum"<br>
+              <em>Comments: David Henderson, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>High School Presenters</p>
+              <p>Olivia Niemenski, Eastern Michigan University : "Scientific Participation and Engagement Between Researchers & The Public: An Archeological Museum Study"<br>
+              <em>Comments: McKenna Schmittlein, Eastern Michigan University</em></p>
+            </li>
+            <li><h5>Guild Room (330):</h5>
+              <p>A2 Ethics Bowl Presenters:</p>
               <ul>
-                <li>Jiaqi Huang, “Carceral Feminism: Is Criminal Justice a Solution to Gender Based Violence?”</li>
-                <li>Alexandra Pryplesh, “Our Moral Consideration of Non-Human Animals”</li>
-                <li>Mike Yimer, “The Moral Inequality account of Blame and Forgiveness”</li>
+                <li>To be announced</li>
               </ul>
             </li>
           </ul>
         </li>
-        <li><h5>4:00 PM - 4:50 PM | PRESENTATIONS</h5>
+        <li><h5>3:30 PM - 4:20 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Marin Schwarz, Washburn University: “Redistribution on Trial: Rawls, Nozick, and the Social Security Dilemma”<br>
-              <em>Comments: Jay Christensen, Eastern Michigan University</em></p>  
+              <p>Jacob MacFarland, Linfield University: “Hostage to the Pen: The Unethical Obligation of Exploitation Within Capitalism”<br>
+              <em>Comments: Luke Nordberg, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>High School Presenters</p>
+              <p>Jamison Nemecek, Linfield University: "From Phenomenology to Dialectics: Space, Time, and the Moving Body"<br>
+              <em>Comments: Sylvia Thompson, Eastern Michigan University </em></p>
+            </li>
+            <li><h5>Guild Room (330):</h5>
+              <p>A2 Ethics Bowl Presenters:</p>
               <ul>
-                <li>Jennifer Tang, “Please Like, Comment, and Repost: On the Moral Implications of Performative or Low Effort Activism”</li>
-                <li>Kathryn Plotner, “The Ethical Duty of Competence”</li>
+                <li>To be announced</li>
               </ul>
             </li>
           </ul>
@@ -111,98 +119,102 @@ permalink: /schedule/
     </div>
     <hr>
     <div class="day-2">
-      <h4 class="schedule-header">Sunday, November 10th, 2024</h4>
+      <h4 class="schedule-header">Sunday, November 9th, 2025</h4>
       <ul class="schedule-list">
-        <li><h5>8:30 AM - 9:00 AM | WELCOME</h5>
+        <li><h5>8:00 AM - 8:50 AM | WELCOME</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Check-in & Breakfast: <em>Join Dr. John Koolage for a brief welcome message and breakfast!</em></p>              
+              <p>Join Dr. John Koolage for a brief welcome message and breakfast!</p>
             </li>
           </ul>
 	      </li>
         <li><h5>9:00 AM - 9:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Eleanor Brannen, Georgia College and State University: “Intersectional Environmentalism and the Future of Care”<br>
-              <em>Comments: Jacqueline Deinek, Eastern Michigan University</em></p>
+              <p>Satyam Sinha, Michigan State University: "Kant, Statelessness, and the Case for a World Government"<br>
+              <em>Comments: Aryasatya Anindita, St. John's College Annapolis</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Ava MacDonald, Georgetown University: “Trust in Testimony: Standpoint Theory and Moral Reasoning”<br>
-              <em>Comments: Paige Hannan, McMaster</em></p>
+              <p>Kenneth McMillen, Linfield University: "The Veil of Jurisprudence: How International Law Masks Coercive Violence"<br>
+              <em>Comments: Adam Almaleky, University of Michigan</em></p>
             </li>
           </ul>
         </li>
         <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Paige Hannan, McMaster University: “Between Belief and Blame” <br>
-              <em>Comments: AAnna McConnell, Idaho State University</em></p>
+              <p>Sage Henke, Linfield University: "I Always Feel Like Somebody’s Watching Me: A Diagnosis of Ideological Conceptions in the Capitalist Legal Form"<br>
+              <em>Comments: Luca D'stasio, University of Michigan</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Kevin Young, Southern Utah University: “Learning Moves in Game Theory”<br>
-              <em>Comments: Jade Hua, University of Florida</em></p>
+              <p>Kali Killingsworth, Arizona State University: "Hyperdimensional Neutral Monism and the Proto-Panpsychist Structural Solution"<br>
+              <em>Comments: Jason Folk, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
         <li><h5>11:00 AM - 11:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Aleksei Alward, Eastern Michigan University: “Dialectic Disorder: Integrating cultural influence on diagnostic kinds”<br>
-              <em>Comments: Ava MacDonald, Georgetown</em></p>
+              <p>Mallory Venezia, Claremont McKenna College: “Without Ever Touching His Skin: The Autonomy of Sexual Fantasies”<br>
+              <em>Comments: Brendan Maguire, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Jason Folk, Eastern Michigan University: “A Scientist and a Journalist Walk Into A Bar: An Exploration of the Inner Workings of Science-Media Relations”<br>
-              <em>Comments: Megan Bonne, Duke University</em></p>
+              <p>Xavier Parker, University of Arkansas at Little Rock: “Public Intoxication, the Purpose of Law and Autonomy”<br>
+              <em>Comments: Hunter Sturm, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>12:00 PM - 1:00 PM | LUNCH</h5>
+        <li><h5>12:00 PM - 1:15 PM | LUNCH</h5>
           <ul class="schedule-list">
-            <li><h5>Guild Room (330):</h5>
-              <p>Lunch: <em>Join presenters, commenters, and guests for lunch.</em></p>
+            <li><h5>Restaurant of your choice</h5>
+              <p>Enjoy lunch at one of the <a href="https://maps.app.goo.gl/gqxDPyMCMPr2XSPy9" target="_blank">wonderful restaurants within walking distance of McKenny Hall</a>. Vegetarian and vegan options are available.</p>
             </li>
           </ul>
         </li>
-        <li><h5>1:00 PM - 1:50 PM | ACTIVITIES</h5>
-          <ul class="schedule-list">
-            <li><h5>Tower Room (348):</h5>
-              <p>Barriers to Epistemic Success in Purportedly Deliberative Democratic Spaces - An Exploratory Dialogue</p>
-            </li>
-          </ul>
-        </li>
-        <li><h5>2:00 PM - 2:50 PM | PRESENTATIONS</h5>
+        <li><h5>1:30 PM - 2:20 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Shuyun NIU, Hong Kong Baptist University: “Comparison and Complementarity Between Wang Yangming's Heart-mind is Principle and Edmund Husserl's Intentionality in Phenomenology”<br>
-              <em>Comments: Aleksei Alward, Eastern Michigan University</em></p>
+              <p>Ava Ryan-Young, Eastern Michigan University: “Oral History in Scientific Communities”<br>
+              <em>Comments: Kali Killingsworth, Arizona State University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Nathan Graves, Kennesaw State: “Essential Secrets: How Soren Kirekegaard and Friedrich Schlegel Found a New Home in the Postmodern Condition”<br>
-              <em>Comments: Jiayuan Zhang, University of Florida</em></p>
+              <p>Jason Folk, Eastern Michigan University: “An Issue with Issue 1”<br>
+              <em>Comments: Jamison Nemecek, Linfield University</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>3:00 PM - 3:50 PM | PRESENTATIONS</h5>
+        <li><h5>2:30 PM - 3:20 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Adeline Navarro, Wayne State University: “Political Posters, Periperformativity, and Power”<br>
-              <em>Comments: Jason Folk, Eastern Michigan University</em></p>
+              <p>Kallista Leggitt, University of Utah: “Nested Pediatric Ethicalities”<br>
+              <em>Comments: Satyam Sinha, Michigan State University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Marie Peterson, St. Mary’s University of San Antonio: “Ethnorace and Latine Decolonial Feminisms: Filling the Gaps of Erasure”<br>
-              <em>Comments: Gracie Hand, Eastern Michigan University</em></p>
+              <p>Aryasatya Anindita, St. John's College Annapolis: "Searching for Laws: Rethinking the Metaphysics of Experimentation vis-à-vis Faraday and Kant"<br>
+              <em>Comments: Ozma Smith, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
-        <li><h5>4:00 PM - 4:50 PM | CLOSING CEREMONY</h5>
+        <li><h5>3:30 PM - 4:20 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Closing Ceremony: <em>Join the UCiP Team as we thank you for your participation!</em></p>              
+              <p>Peyton Cooper & Katherine Berensen, University of Utah: “A New AI Crisis in Mental Healthcare”<br>
+              <em>Comments: To be announced</em></p>
+            </li>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Please join us in the Tower Room!</p>
+            </li>
+          </ul>
+        </li>
+        <li><h5>4:20 PM - 4:50 PM | CLOSING CEREMONY</h5>
+          <ul class="schedule-list">
+            <li><h5>Tower Room (348):</h5>
+              <p>Join the UCiP Team as we thank you for your participation!</p>
             </li>
           </ul>
         </li>
       </ul>
-    </div>-->
+    </div>
   </div>
   {% include box.html %}
 </div>
