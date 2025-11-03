@@ -115,7 +115,7 @@ permalink: /schedule/
               <ul>
                 <li>Ryanna RePass: "Morals or Manipulation?"</li>
                 <li>Nome Popp Berman: "Ethical CRISPR Development"</li>
-                <li>Hrudya Pingili: "The Question That Outlives the Answer: Humanity's Search for Meaning "</li>
+                <li>Hrudya Pingili: "The Question That Outlives the Answer: Humanity's Search for Meaning"</li>
                 <li>Alexandra Pryplesh: "“There is no doer”: Monique Wittig’s legacy within and beyond critique"</li>
               </ul>
             </li>
