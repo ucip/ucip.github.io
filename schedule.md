@@ -199,7 +199,7 @@ permalink: /schedule/
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
               <p>Peyton Cooper & Katherine Berensen, University of Utah: “A New AI Crisis in Mental Healthcare”<br>
-              <em>Comments: To be announced</em></p>
+              <em>Comments: Lauren Williams, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Please join us in the Tower Room!</p>
