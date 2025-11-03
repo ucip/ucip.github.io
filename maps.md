@@ -17,7 +17,7 @@ permalink: /arrival/maps/
     <p class="text-justify">Signs will be posted inside the building to help you navigate to the Conference rooms.</p>
     <p class="text-justify">* Parking validation is offered to UCiP presenters and commenters.</p>
     <h3>Campus Map</h3>
-    <p class="text-justify"><a href="https://www.emich.edu/map/index.php">Click here to view EMU's interactive Campus Map</a></p>
+    <p class="text-justify"><a href="https://www.emich.edu/map/index.php" target="_blank">Click here to view EMU's interactive Campus Map</a></p>
     <p class="text-justify">You can use the map linked above to navigate campus. In the upper right corner of the map, you can search for Student Center, display parking information, and download a printable map.</p>
   </div>
   {% include box.html %}
