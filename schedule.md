@@ -29,9 +29,8 @@ permalink: /schedule/
               <em>Comments: Adriana Wynn, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <!--<p>Jade Hua, University of Florida: “Which Equality is More Just? An Investigation of Two Egalitarian Theories of Justice”<br>
-              <em>Comments: Eli Card, Eastern Michigan University</em></p>-->
-              <p>Join us in the Tower Room!</p>
+              <p>Aryasatya Anindita, St. John's College Annapolis: "Searching for Laws: Rethinking the Metaphysics of Experimentation vis-à-vis Faraday and Kant"<br>
+              <em>Comments: Ozma Smith, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
@@ -39,7 +38,7 @@ permalink: /schedule/
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
               <p>Fiona Hamilton, The University of Tennessee at Chattanooga: “Heraclitean Cosmos as a Container”<br>
-              <em>Comments: Priya Ghotane, Eastern Michigan University</em></p>
+              <em>Comments: Sylvia Thompson, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Heather Nakatsukasa, Linfield University: “The Historical Development of Capital: Transforming Society”<br>
@@ -87,7 +86,7 @@ permalink: /schedule/
             </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Olivia Niemenski, Eastern Michigan University : "Scientific Participation and Engagement Between Researchers & The Public: An Archeological Museum Study"<br>
-              <em>Comments: McKenna Schmittlein, Eastern Michigan University</em></p>
+              <em>Comments: Laila Panzenhagen, Eastern Michigan University</em></p>
             </li>
             <li><h5>Guild Room (330):</h5>
               <p>A2 Ethics Bowl Presenters:</p>
@@ -108,7 +107,7 @@ permalink: /schedule/
             </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Jamison Nemecek, Linfield University: "From Phenomenology to Dialectics: Space, Time, and the Moving Body"<br>
-              <em>Comments: Sylvia Thompson, Eastern Michigan University </em></p>
+              <em>Comments: Priya Ghotane, Eastern Michigan University</em></p>
             </li>
             <li><h5>Guild Room (330):</h5>
               <p>A2 Ethics Bowl Presenters:</p>
@@ -196,8 +195,7 @@ permalink: /schedule/
               <em>Comments: Satyam Sinha, Michigan State University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Aryasatya Anindita, St. John's College Annapolis: "Searching for Laws: Rethinking the Metaphysics of Experimentation vis-à-vis Faraday and Kant"<br>
-              <em>Comments: Ozma Smith, Eastern Michigan University</em></p>
+              <p>Join us in the Tower Room!</p>
             </li>
           </ul>
         </li>
@@ -208,7 +206,7 @@ permalink: /schedule/
               <em>Comments: Lauren Williams, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Please join us in the Tower Room!</p>
+              <p>Join us in the Tower Room!</p>
             </li>
           </ul>
         </li>
