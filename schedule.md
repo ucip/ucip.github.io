@@ -8,11 +8,11 @@ permalink: /schedule/
 <div class="container">
   <div class="col-sm-9 col-xs-12">
     <div>
-      <!--<h3 class="home-h3">The 2025 UCiP was a resounding success! Thank you to everyone who helped make it what it was.</h3>
-      <p><small>You can view the 2025 Schedule, along with the abstracts, <a href="{{ site.baseurl }}/history/">here</a>.</small></p>-->
-      <h3 class="home-h3">2025 UCiP Schedule</h3>
+      <h3 class="home-h3">The 2025 UCiP was a resounding success!</h3>
+      <p>Thank you to everyone who helped make it what it was. You can view the 2025 Schedule, along with the abstracts, <a href="{{ site.baseurl }}/history/">on our History page</a>.</p>
+      <!--<h3 class="home-h3">2025 UCiP Schedule</h3>-->
     </div>
-    <div>
+    <!--<div>
       <h4 class="schedule-header">Saturday, November 8th, 2025</h4>
       <ul class="schedule-list">
         <li><h5>8:00 AM - 8:50 AM | WELCOME</h5>
@@ -218,7 +218,7 @@ permalink: /schedule/
           </ul>
         </li>
       </ul>
-    </div>
+    </div>-->
   </div>
   {% include box.html %}
 </div>

@@ -20,11 +20,25 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 600;
+  font-weight: 500;
+}
+
+h3 {
+  margin-top: 1em;
+  margin-bottom: .5em;
 }
 
 h5, h6 {
   font-size: unset;
+}
+
+p {
+  line-height: 1.45;
+  margin-bottom: 1em;
+}
+
+b, strong {
+  font-weight: 500;
 }
 
 /* Navbar */
@@ -130,7 +144,9 @@ hr {
 }
 
 .journal-btns {
-  margin-top: 1em;
+  margin: .5em .15em;
+  padding: .5em 1em;
+  font-size: 1em;
 }
 
 .header-link {
@@ -187,6 +203,11 @@ hr {
   height: auto;
   margin-top: -1em;
   margin-bottom: 1em;
+  overflow: -moz-scrollbars-none;
+}
+
+.announcement::-webkit-scrollbar {
+  display: none;
 }
 
 .announcement-text {
@@ -194,8 +215,17 @@ hr {
 }
 
 .cfp {
-  width: 10em;
+  margin: .25em;
+  padding: .5em 1em;
+  width: fit-content;
+  font-size: 1em;
+}
+
+.box-cfp {
+  width: 100%;
+  padding: .5em 0;
   margin-bottom: .5em;
+  font-size: 1em;
 }
 
 .phil-events {
@@ -226,6 +256,11 @@ hr {
 
 .cfp-page {
   margin-bottom: 2em;
+}
+
+.cfp-h3 {
+  font-size: 2em;
+  margin-bottom: .5em;
 }
 
 /* Footer */
@@ -277,5 +312,4 @@ footer {
 @media only screen and (max-width: 992px) {
   .post-list-box { height: 15em; }
   .announcement {height: auto; }
-  .cfp { font-size: .75em; }
 }
