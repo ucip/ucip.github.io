@@ -15,7 +15,7 @@ permalink: /cfp/
     <p class="text-justify">We will also be using a formal commenter system; so, even if your paper is not selected for presentation, you may be considered for such a role. Please let us know, along with your paper submission, if you are willing to comment. This also means that all selected papers will receive formal feedback at the conference.</p>
     <p class="text-justify"><strong>Papers and abstracts should be submitted electronically.</strong> Click the button below to fill out our Google Form.</p>
     <div class="text-center">
-      <a class="btn btn-primary cfp" href="https://docs.google.com/forms/d/e/1FAIpQLSeUlsP5ZDx9SRvQ45o-iP1SQIMaj-hqUhTTH-UlJZBkDLdikw/viewform?usp=publish-editor" target="_blank" rel="noopener noreferrer" role="button">Submit Your Paper</a>
+      <a class="btn btn-primary cfp" href="https://docs.google.com/forms/d/e/1FAIpQLSeUlsP5ZDx9SRvQ45o-iP1SQIMaj-hqUhTTH-UlJZBkDLdikw/viewform?usp=publish-editor" target="_blank" rel="nofollow noopener noreferrer" role="button">Submit Your Paper</a>
     </div>
     <h3>Additional Information</h3>
     <h4>Keynote Speaker</h4>
@@ -25,7 +25,7 @@ permalink: /cfp/
     <h4>Publication Opportunity</h4>
     <p class="text-justify">The top (3 to 5) papers submitted will also be published in the upcoming edition of our undergraduate philosophy journal, <a href="{{ site.baseurl }}/journal/">Acta Cogitata!</a></p>
     <h3>Questions?</h3>
-    <p class="text-justify">Conference organizers can be reached by email at <a href="mailto:emuucip@gmail.com">emuucip@gmail.com</a>.</p>
-    <p class="text-justify"><strong>Faculty Supervisor:</strong> <a href="https://www.emich.edu/history-philosophy/philosophy/faculty/w-john-koolage.php">Dr. W. John Koolage</a></p>
+    <p class="text-justify">Conference organizers can be reached by email at <a href="mailto:{{ 'emuucip@gmail.com' | encode_email }}" rel="nofollow noopener noreferrer">emuucip@gmail.com</a>.</p>
+    <p class="text-justify"><strong>Faculty Supervisor:</strong> <a href="https://www.emich.edu/history-philosophy/philosophy/faculty/w-john-koolage.php" rel="nofollow noopener noreferrer">Dr. W. John Koolage</a></p>
   </div>
 </div>

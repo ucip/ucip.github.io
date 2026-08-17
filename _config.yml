@@ -17,6 +17,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+  - jekyll-email-protect
 
 # Exclude files
 exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
