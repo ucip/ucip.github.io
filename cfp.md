@@ -1,10 +1,24 @@
 ---
 layout: page
-title: "2025 Call for Papers"
+title: "Call for Papers"
 header-img: "img/header.jpg"
 permalink: /cfp/
 ---
 
+<!-- DEADLINE PASSED CONTENT -->
+<div class="container">
+  <div class="col-md-8 col-md-offset-2 cfp-page">
+    <h3 class="cfp-h3">2026 Submissions Closed</h3>
+    <p class="text-justify">Thank you for your interest in submitting your paper to the EMU Undergraduate Conference in Philosophy. The deadline for submissions for the <strong>2026 UCiP</strong> was <strong>Sunday, Sept. 6, 2026.</strong></p>
+    <h3 class="cfp-h3">2026 Commentators Needed!</h3>
+    <p class="text-justify">We use a formal commenter system at the UCiP. All selected papers will receive formal feedback at the conference. To do that, we need commentators!</p>
+    <p>If you're interested in being a commentator, see our <a href="{{ site.baseurl }}/cfc/">Call for Commentators</a>!</p>
+    <h3 class="cfp-h3">2027 CFP Coming Soon</h3>
+    <p>The next UCiP CFP will be announced in Spring 2027.</p>
+  </div>
+</div>
+
+<!-- CFP CONTENT
 <div class="container">
   <div class="col-md-8 col-md-offset-2 cfp-page">
     <h3 class="cfp-h3">Submission Deadline: Sept. 6th, 2026</h3>
@@ -28,4 +42,4 @@ permalink: /cfp/
     <p class="text-justify">Conference organizers can be reached by email at <a href="mailto:{{ 'emuucip@gmail.com' | encode_email }}" rel="nofollow noopener noreferrer">emuucip@gmail.com</a>.</p>
     <p class="text-justify"><strong>Faculty Supervisor:</strong> <a href="https://www.emich.edu/history-philosophy/philosophy/faculty/w-john-koolage.php" rel="nofollow noopener noreferrer">Dr. W. John Koolage</a></p>
   </div>
-</div>
+</div>-->

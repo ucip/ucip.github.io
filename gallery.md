@@ -6,7 +6,7 @@ permalink: /gallery/
 ---
 
 <div class="container">
-  <div class="col-sm-12 hidden-print">
+  <div class="col-sm-12 hidden-print gallery-div">
     <h3 class="post-list-header">2020 UCiP Pictures</h3>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2020/2020-1.jpg"></div>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2020/2020-2.jpg"></div>
@@ -32,7 +32,7 @@ permalink: /gallery/
 </div>
 
 <div class="container">
-  <div class="col-sm-12 hidden-print">
+  <div class="col-sm-12 hidden-print gallery-div">
     <p class="text-center"><a href="{{ site.baseurl }}/gallery/past/">Click here to see past galleries...</a></p>
   </div>
 </div>

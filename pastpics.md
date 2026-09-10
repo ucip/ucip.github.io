@@ -6,8 +6,8 @@ permalink: /gallery/past/
 ---
 
 <div class="container">
-  <div class="col-sm-12 hidden-print">
-    <h3 class="post-list-header">2019 UCiP Pictures</h3>
+  <div class="col-sm-12 hidden-print gallery-div">
+    <h3 class="post-list-header">Past UCiP Pics</h3>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2019/2019-1.jpg"></div>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2019/2019-2.jpg"></div>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2019/2019-3.jpg"></div>
@@ -27,9 +27,6 @@ permalink: /gallery/past/
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2019/2019-17.jpg"></div>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2019/2019-18.jpg"></div>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2019/2019-19.jpg"></div>
-  </div>
-  <div class="col-sm-12 hidden-print">
-    <h3 class="post-list-header">Past UCiP Pictures</h3>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2017/img_5.jpg"></div>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2017/img_12.jpg"></div>
     <div class="col-xs-12 col-sm-6"><img class="img-responsive img-rounded" src="{{ site.baseurl }}/img/2017/img_1.jpg"></div>

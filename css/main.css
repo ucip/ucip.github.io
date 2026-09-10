@@ -93,20 +93,12 @@ h1.site-title {
   margin-bottom: 50px;
 }
 
-.home-jumbotron {
-  height: 500px;
-}
-
+.home-jumbotron,
 .page-jumbotron {
   height: 300px;
 }
 
-.home-jumbotron h2 {
-  margin-top: 2.5em;
-  font-variant: small-caps;
-  font-size: 72px;
-}
-
+.home-jumbotron h2,
 .page-jumbotron h2 {
   margin-top: 1.5em;
   font-variant: small-caps;
@@ -261,6 +253,10 @@ hr {
 .cfp-h3 {
   font-size: 2em;
   margin-bottom: .5em;
+}
+
+.gallery-div {
+  margin-bottom: 1.5em;
 }
 
 /* Footer */
