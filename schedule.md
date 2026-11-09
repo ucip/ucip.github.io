@@ -80,6 +80,11 @@ permalink: /schedule/
             <li>
               <h5>Guild Room (330):</h5>
               <p>A2 Ethics Bowl Presenters</p>
+              <ul>
+                <li>Amelia Bai: “The Monetization of One's Own Suffering”</li>
+                <li>Solmin Kim: “Must a Meaningful Life Be Self-Chosen?”</li>
+                <li>Samir Rao: “Performance Enhancing Engineering”</li>
+              </ul>
             </li>
           </ul>
         </li>
@@ -95,6 +100,11 @@ permalink: /schedule/
             </li>
             <li><h5>Guild Room (330):</h5>
               <p>A2 Ethics Bowl Presenters</p>
+              <ul>
+                <li>Amy Yang: “The Ethics of Larping”</li>
+                <li>Luca Abudeye: “The Start of a Healthy and Fulfilling Life”</li>
+                <li>Ryanna RePass: “The Legitimacy of Morality”</li>
+              </ul>
             </li>
           </ul>
         </li>
@@ -110,6 +120,11 @@ permalink: /schedule/
             </li>
             <li><h5>Guild Room (330):</h5>
               <p>A2 Ethics Bowl Presenters</p>
+              <ul>
+                <li>Sakshi Sivakumar: “The Ethics of Capitalism”</li>
+                <li>Hrudya Pingili: “Obligation Without Condemnation: Suicide, Human Nature, and the Ethics of Intervention”</li>
+                <li>Peter Johnson: “Axiarchism and Comedic Value”</li>
+              </ul>
             </li>
           </ul>
         </li>
