@@ -91,12 +91,12 @@ permalink: /schedule/
         <li><h5>2:30 PM - 3:20 PM | PRESENTATIONS</h5>
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
-              <p>Cici Zhang, Vassar College: "Can Consciousness Change Reality? Manifestation and Yogācāra"<br>
-              <em>Comments: Mary Kushner, Eastern Michigan University</em></p>
-            </li>
-            <li><h5>Alumni Room (342):</h5>
               <p>George Bowyer, University of Cambridge: "Empirical Adequacy Is an Incomplete Defence of the Proximate-Ultimate Distinction"<br>
               <em>Comments: Daniel Shitandi, St. John’s College</em></p>
+            </li>
+            <li><h5>Alumni Room (342):</h5>
+              <p>Sanaa Taqvi, Claremont Mckenna College: “Yours, Truly? The Ownership and Authorship of Desire”<br>
+              <em>Comments: Luke Nordberg, Eastern Michigan University</em></p>
             </li>
             <li><h5>Guild Room (330):</h5>
               <p>A2 Ethics Bowl Presenters</p>
@@ -145,7 +145,7 @@ permalink: /schedule/
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
               <p>Deepthisri Paruchuri, Ohio State University: "The Role of Ancient Chinese Philosophies in Modern Medical Ethics"<br>
-              <em>Comments:Junhou Chen, University of Michigan - Ann Arbor</em></p>
+              <em>Comments: Junhou Chen, University of Michigan - Ann Arbor</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Nadia Jeelani-Socia, University of Cincinnati: "Feminist Approach to Ethical Duties in Healthcare"<br>
@@ -191,8 +191,8 @@ permalink: /schedule/
               <em>Comments: Ava Ryan-Young, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
-              <p>Sanaa Taqvi, Claremont Mckenna College: “Yours, Truly? The Ownership and Authorship of Desire”<br>
-              <em>Comments: Luke Nordberg, Eastern Michigan University</em></p>
+              <p>Rosemary Kendall, Eastern Michigan University: “Structures of Epistemology”<br>
+              <em>Comments: Joel Collen, Eastern Michigan University</em></p>
             </li>
           </ul>
         </li>
@@ -200,7 +200,7 @@ permalink: /schedule/
           <ul class="schedule-list">
             <li><h5>Tower Room (348):</h5>
               <p>Andre Kolak, “Cene without Me? But Anthro Makes Three! Structural Relations and Necessary Conditions”<br>
-              <em>Comments: Ivy Oeseburg, Eastern Michigan University</em></p>
+              <em>Comments: Ava Ryan-Young, Eastern Michigan University</em></p>
             </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Graduate Student Panel</p>
