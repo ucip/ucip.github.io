@@ -36,10 +36,6 @@ permalink: /schedule/
         </li>
         <li><h5>10:00 AM - 10:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
-            <li><h5>Tower Room (348):</h5>
-              <p>David Harris, McMaster University: “The Right to Make a World: Communication, Social Facts, and the Limits of the Cosmopolitan Right”<br>
-              <em>Comments: Zoey Patten, Eastern Michigan University</em></p>
-            </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Justice Dunn, University of Wyoming: “Counterexamples Against Revisionary Ontologies: What Is and What Should Never Be”<br>
               <em>Comments: Stephen Armstrong, Eastern Michigan University</em></p>
@@ -48,10 +44,6 @@ permalink: /schedule/
         </li>
         <li><h5>11:00 AM - 11:50 AM | PRESENTATIONS</h5>
           <ul class="schedule-list">
-            <li><h5>Tower Room (348):</h5>
-              <p>Nerea Vidal Arrieta, University of Minnesota: "Democracy and collective well-being"<br>
-              <em>Comments: RJ (Ronald) Gurunian, Eastern Michigan University</em></p>
-            </li>
             <li><h5>Alumni Room (342):</h5>
               <p>Penelope Sanchez, University of Michigan - Ann Arbor: “On Human Rights and the Necessity of Open Borders”<br>
               <em>Comments: Elijah Card, Eastern Michigan University</em></p>
